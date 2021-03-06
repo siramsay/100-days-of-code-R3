@@ -23,7 +23,7 @@
 **Thoughts:**
 
 **Link to work:**
-1.
+1. [100 Days of Code R3](https://github.com/siramsay/100-days-of-code-R3)
 
 ### Day 110 2020 March 5, Friday
 
@@ -97,13 +97,48 @@
 1.
 
 ### Day 104 2020 February 27, Saturday
+
+**Today's Progress**:
+
+1. Image Reveal with handle  / rearrange layers so that image is in a div so it can be responsive.
+
+**Thoughts:**
+
+**Link to work:**
+1.
+
 ### Day 103 2020 February 26, Friday
+
+**Today's Progress**:
+
+1. Image Reveal with handle / Git branch responsive.
+
+**Thoughts:**
+
+**Link to work:**
+1.
+
 ### Day 102 2020 February 25, Thursday
+
+**Today's Progress**:
+
+1. Image Reveal with handle
+
+**Thoughts:**
+
+**Link to work:**
+1.
+
 ### Day 101 2020 February 24, Wednesday
 
+**Today's Progress**:
 
+1. Image Reveal with handle
 
+**Thoughts:**
 
+**Link to work:**
+1.
 
 ### Day 100 2020 February 23, Tuesday
 
@@ -115,4 +150,4 @@
 
 **Link to work:**
 1. nmb/ Intersection API
-1. [100 Days of Code Repo](https://github.com/siramsay/100-days-of-code)
+1. 
