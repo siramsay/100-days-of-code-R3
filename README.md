@@ -5,8 +5,9 @@
 **Today's Progress**:
 
 1. Git / set up SSH keys on laptop
+2. 3D Cube / Double Face / set up 3 cubes, one cube, one square with variable height, one with variable height and depth
 
-**Thoughts:**
+**Thoughts:** Want to work on class name to relate to type of cube, and then have setting based on a controlling unique class.
 
 **Link to work:**
 1.
