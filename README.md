@@ -4,7 +4,7 @@
 
 **Today's Progress**:
 
-1. 
+1. Git / set up SSH keys on laptop
 
 **Thoughts:**
 
