@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 114 2020 March 9, Tuesday
+
+**Today's Progress**:
+
+1. 
+
+**Thoughts:**
+
+**Link to work:**
+1.
+
+### Day 113 2020 March 8, Monday
+
+**Today's Progress**:
+
+1. 3D Cube / Double Face / Continue Working on depth and transform-origin
+   / work on the algorithm for height & depth
+   / refactor 
+
+**Thoughts:** Still go some transform right and left, could work it for consistency all left or all right
+
+**Link to work:**
+1.
+
+
 ### Day 112 2020 March 7, Sunday
 
 **Today's Progress**:
