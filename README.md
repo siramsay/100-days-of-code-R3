@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 115 2020 March 9, Tuesday
+### Day 115 2020 March 10, Wednesdayg
 
 **Today's Progress**:
 
