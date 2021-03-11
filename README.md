@@ -4,6 +4,18 @@
 
 **Today's Progress**:
 
+1. 3D Cube / basic / created 3 cubes for A Deeper Look
+2. 3D Cube / Double Face & Cube / Worked on classes so they are more re-useable.
+
+**Thoughts:** The height and position height maybe need to be created for each individual element. The limitation of CSS
+
+**Link to work:**
+1.
+
+### Day 115 2020 March 10, Wednesday
+
+**Today's Progress**:
+
 1. 3D Cube / Double Face & Cube / Crosshair, bring it to front 
 
 **Thoughts:** 
