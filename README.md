@@ -1,11 +1,64 @@
 # 100 Days Of Code - Log
 
-### Day 115 2020 March 10, Wednesday
+### Day 121 2020 March 16, Tuesday
+
+**Today's Progress**
+
+1. shape-outside: 
+
+**Thoughts:**
+
+**Link to work:**
+1. 
+
+### Day 120 2020 March 15, Monday
+
+**Today's Progress**
+
+1. Tidy up the JS 3D tool / Refined UI sizing labeling for Mobile
+2. Add -webkit-appearance: none on buttons for Mobile
+
+**Thoughts:**
+
+**Link to work:**
+1. 3d-cube-js-global-variable-Git
+
+### Day 119 2020 March 14, Sunday
+
+**Today's Progress**:
+
+1. Tidy up the JS 3D tool 
+
+### Day 118 2020 March 13, Saturday
+
+**Today's Progress**:
+
+1. Tidy up the JS 3D tool
+
+**Thoughts:**
+
+**Link to work:**
+1. 3d-cube-js-global-variable-Git
+
+
+### Day 117 2020 March 12, Friday
+
+**Today's Progress**:
+
+1. Basic Positioning code samples made for site. All code written from memory.
+2. Review the Basic boilerplate while do the above.
+
+**Thoughts:** Whilst today was based around fundamentals it is good to do this. In particular flexbox used for code samples still. 
+
+**Link to work:**
+1.
+
+### Day 116 2020 March 11, Thursday
 
 **Today's Progress**:
 
 1. 3D Cube / basic / created 3 cubes for A Deeper Look
-2. 3D Cube / Double Face & Cube / Worked on classes so they are more re-useable.
+2. 3D Cube / Double Face & Cube / Worked on classes so they are more re-usable.
 
 **Thoughts:** The height and position height maybe need to be created for each individual element. The limitation of CSS
 
