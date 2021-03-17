@@ -1,15 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 121 2020 March 16, Tuesday
+### Day 122 2020 March 17, Wednesday
 
 **Today's Progress**
 
-1. shape-outside: 
+1. Layer SVG graphs test
 
 **Thoughts:**
 
 **Link to work:**
 1. 
+
+### Day 121 2020 March 16, Tuesday
+
+**Today's Progress**
+
+1. shape-outside: 
+2. text gradient with background-clip & -text-fill
+
+**Thoughts:**
+
+**Link to work:**
+1. css-shape-outside
 
 ### Day 120 2020 March 15, Monday
 
