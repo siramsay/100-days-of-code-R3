@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 125 2020 March 20, Saturday
+
+**Today's Progress**
+
+1. Prepare Upload Hide and Show /
+   
+
+**Thoughts:**
+
+**Link to work:**
+
+1.
+
+### Day 124 2020 March 19, Friday
+
+**Today's Progress**
+
+1. Prepare Upload Hide and Show / 
+   fixed font sizes
+   touch swipe. refactor the functions 
+   stop handle from going of the screen
+
+**Thoughts:**
+
+**Link to work:**
+
+1.
+
 ### Day 123 2020 March 18, Thursday
 
 **Today's Progress**
@@ -13,7 +41,6 @@
 **Link to work:**
 
 1.
-
 
 ### Day 122 2020 March 17, Wednesday
 
