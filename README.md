@@ -1,12 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 127 2020 March 22, Monday
+
+**Today's Progress**
+
+1. Prepare Upload Hide and Show
+   trying to work on how to get touchmove to work / testing on Safari with develop and web inspector
+
+**Thoughts:** Touch is way more complex than meet the eye. Why does the function keep running multiple times between each touch console.log
+
+**Link to work:**
+
+1.
+
+### Day 126 2020 March 21, Sunday
+
+**Today's Progress**
+
+1. Prepare Upload Hide and Show
+   continue/ touch swipe. working with touchmove touchstart / trying to work on how to get touchmove to work
+   stopping mobile context menus 
+
+**Thoughts:**
+
+**Link to work:**
+
+1.
+
 ### Day 125 2020 March 20, Saturday
 
 **Today's Progress**
 
-1. Prepare Upload Hide and Show /
+1. Prepare Upload Hide and Show
+   continue/ touch swipe. refactor the functions
    
-
 **Thoughts:**
 
 **Link to work:**
@@ -17,11 +44,9 @@
 
 **Today's Progress**
 
-1. Prepare Upload Hide and Show / 
-   fixed font sizes
+1. Prepare Upload Hide and Show /
    touch swipe. refactor the functions 
-   stop handle from going of the screen
-
+   
 **Thoughts:**
 
 **Link to work:**
