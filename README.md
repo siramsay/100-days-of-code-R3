@@ -1,13 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 128 2020 March 23, Tuesday
+
+**Today's Progress**
+
+1. Prepare Upload Hide and Show Testing on Safari with develop and web inspector Cleaning up Touch code.
+2. Working between desktop and Laptop with Mega Sync testing, this worked and allows for only using Laptop as the git remote repo to commit changes.
+3. Testing the Touch hover pseudo class, need to maybe go with the solution as is and then clone to a new repo.  
+
+**Thoughts:** Good to have a project like this, you just keeping on "hitting walls" which needs research, CSS level 4 Media queries for detecting hover interesting.
+
+**Link to work:**
+
+1.
+
 ### Day 127 2020 March 22, Monday
 
 **Today's Progress**
 
-1. Prepare Upload Hide and Show
-   trying to work on how to get touchmove to work / testing on Safari with develop and web inspector
+1. Prepare Upload Hide and Show trying to work on how to get touchmove to work / testing on Safari with develop and web
+   inspector
 
-**Thoughts:** Touch is way more complex than meet the eye. Why does the function keep running multiple times between each touch console.log
+**Thoughts:** Touch is way more complex than meet the eye. Why does the function keep running multiple times between
+each touch console.log
 
 **Link to work:**
 
@@ -17,9 +32,8 @@
 
 **Today's Progress**
 
-1. Prepare Upload Hide and Show
-   continue/ touch swipe. working with touchmove touchstart / trying to work on how to get touchmove to work
-   stopping mobile context menus 
+1. Prepare Upload Hide and Show continue/ touch swipe. working with touchmove touchstart / trying to work on how to get
+   touchmove to work stopping mobile context menus
 
 **Thoughts:**
 
@@ -31,9 +45,8 @@
 
 **Today's Progress**
 
-1. Prepare Upload Hide and Show
-   continue/ touch swipe. refactor the functions
-   
+1. Prepare Upload Hide and Show continue/ touch swipe. refactor the functions
+
 **Thoughts:**
 
 **Link to work:**
@@ -44,9 +57,8 @@
 
 **Today's Progress**
 
-1. Prepare Upload Hide and Show /
-   touch swipe. refactor the functions 
-   
+1. Prepare Upload Hide and Show / touch swipe. refactor the functions
+
 **Thoughts:**
 
 **Link to work:**
@@ -57,10 +69,8 @@
 
 **Today's Progress**
 
-1. 3D Perspective examples 
-   Added +translateZ to illustrate disappearing elements 
-   Gradients for clouds
-   
+1. 3D Perspective examples Added +translateZ to illustrate disappearing elements Gradients for clouds
+
 **Thoughts:**
 
 **Link to work:**
@@ -76,7 +86,7 @@ Couple of smaller things today
 1. Layer SVG graphs test - works but unsure of how performant is would be.
 2. Vue.js Transitions - Add a second transition to route, the transition doesn't work on the header logo. Need to think
    about this for when you want the header to animate on the header.
-3. Looked at Drupal module development and Symfony CLI, just research    
+3. Looked at Drupal module development and Symfony CLI, just research
 
 **Thoughts:**
 
