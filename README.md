@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 130 2020 March 25, Thursday
+
+**Today's Progress**
+
+*New Branch for Code Pen*
+1. Look at Level Four Media queries
+2. Make "hacky" temporary double tap solution for mobile 
+
+**Thoughts:**
+
+**Link to work:**
+
+1.
+
 ### Day 129 2020 March 24, Wednesday
 
 **Today's Progress**
@@ -12,7 +26,6 @@
 **Link to work:**
 
 1.
-
 
 ### Day 128 2020 March 23, Tuesday
 
