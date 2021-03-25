@@ -78,7 +78,7 @@ each touch console.log
 
 **Link to work:**
 
-1.
+1. local
 
 ### Day 124 2020 March 19, Friday
 
@@ -90,7 +90,7 @@ each touch console.log
 
 **Link to work:**
 
-1.
+1. local
 
 ### Day 123 2020 March 18, Thursday
 
@@ -102,7 +102,7 @@ each touch console.log
 
 **Link to work:**
 
-1.
+1. local
 
 ### Day 122 2020 March 17, Wednesday
 
