@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 129 2020 March 24, Wednesday
+
+**Today's Progress**
+
+1. New Branch for Code Pen and strip out all un-needed code
+2. Add mobile tap message and test
+
+**Thoughts:**  
+
+**Link to work:**
+
+1.
+
+
 ### Day 128 2020 March 23, Tuesday
 
 **Today's Progress**
@@ -286,7 +300,7 @@ class.
 
 **Today's Progress**:
 
-1.
+1. Vue.js / Frontend Masters course work. 
 
 **Thoughts:**
 
@@ -298,7 +312,9 @@ class.
 
 **Today's Progress**:
 
-1.
+*Some final tweak*
+1. Stop the handle being able to go more that 100% width of screen
+2. Add a hover cursor
 
 **Thoughts:**
 
@@ -334,7 +350,7 @@ class.
 
 **Today's Progress**:
 
-1. Image Reveal with handle
+1. Image Reveal with handle / window mouse up detection added
 
 **Thoughts:**
 
@@ -353,17 +369,3 @@ class.
 **Link to work:**
 
 1.
-
-### Day 100 2020 February 23, Tuesday
-
-**Today's Progress**:
-
-1. Intersection API / Add 2 IntersectionObserver() one foreach div element and one for the body to change based on an
-   element.
-
-**Thoughts:** JavaScript is cool, no functions or objects were reused but that would be the next challenge
-
-**Link to work:**
-
-1. nmb/ Intersection API
-1. 
