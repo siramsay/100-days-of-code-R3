@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 131 2020 March 26, Friday
+
+**Today's Progress**
+
+*Weather Feed on niseko snow*
+1. Reviewed and comments Weather code setup
+2. Adjusted and tested code for output. i.e the code does work, but the input (fetched API data) has changed at some stage so tested it.
+3. Started on Pseudo code for how to make some quick temporary display fixes.  
+
+**Thoughts:**
+
+**Link to work:**
+
+1.
+
 ### Day 130 2020 March 25, Thursday
 
 **Today's Progress**
