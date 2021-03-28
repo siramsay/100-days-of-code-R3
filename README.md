@@ -1,11 +1,42 @@
 # 100 Days Of Code - Log
 
+### Day 134 2021 March 28, Sunday
+
+**Today's Progress**
+
+*Weather Feed on niseko snow*
+1. Add CSS to Grey Out, image filter, color, and opacity
+2. Continue Tidy up code, spacing etc. Add code from 2 on all rows on the table.
+2. Make fixed integer a variable. $currentTimeModifier.
+3. Start Pseudocode to check current time and then calculate the $currentTimeModifier
+
+**Thoughts:**
+
+**Link to work:**
+
+1.
+
+### Day 133 2020 March 27, Saturday
+
+**Today's Progress**
+
+*Weather Feed on niseko snow*
+1. Finish Pseudo code for how to make some quick temporary display fixes.
+2. Code: Make it so that a class is added to "Grey Out" timeframes passed with a fixed integer. 
+3. Tidy up code, spacing etc.
+
+**Thoughts:**
+
+**Link to work:**
+
+1.
+
 ### Day 131 2020 March 26, Friday
 
 **Today's Progress**
 
 *Weather Feed on niseko snow*
-1. Reviewed and comments Weather code setup
+1. Reviewed and comment Weather code setup
 2. Adjusted and tested code for output. i.e the code does work, but the input (fetched API data) has changed at some stage so tested it.
 3. Started on Pseudo code for how to make some quick temporary display fixes.  
 
