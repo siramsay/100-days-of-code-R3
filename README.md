@@ -12,7 +12,7 @@
 
 **Thoughts:**
 * Edge case where fetch ar 9:00AM fails will case this solution to fail. 
-* Need to now write some Pseudo code to remove or hide the table columns for previous timeframes. Only leave want one old timeframe. 
+* Need to now write some Pseudo code to remove or hide the table columns for previous timeframes. Only leave one old timeframe. 
 
 **Link to work:**
 
