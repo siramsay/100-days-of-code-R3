@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 135 2021 March 29, Monday
+
+**Today's Progress**
+
+*Weather Feed on niseko snow*
+1. Continue Pseudocode to check current time and then calculate the $currentTimeModifier
+2. Write if statement for current time and made modifier. 
+3. Convert to Switch statement
+4. Work out if a next day calculation is needed for times after 00 JST / since each period is 24hours date doesn't matter*
+
+**Thoughts:**
+* Edge case where fetch ar 9:00AM fails will case this solution to fail. 
+* Need to now write some Pseudo code to remove or hide the table columns for previous timeframes. Only leave want one old timeframe. 
+
+**Link to work:**
+
+1.
+
 ### Day 134 2021 March 28, Sunday
 
 **Today's Progress**
@@ -16,7 +34,7 @@
 
 1.
 
-### Day 133 2020 March 27, Saturday
+### Day 133 2021 March 27, Saturday
 
 **Today's Progress**
 
@@ -31,7 +49,7 @@
 
 1.
 
-### Day 131 2020 March 26, Friday
+### Day 131 2021 March 26, Friday
 
 **Today's Progress**
 
@@ -46,7 +64,7 @@
 
 1.
 
-### Day 130 2020 March 25, Thursday
+### Day 130 2021 March 25, Thursday
 
 **Today's Progress**
 
@@ -60,7 +78,7 @@
 
 1.
 
-### Day 129 2020 March 24, Wednesday
+### Day 129 2021 March 24, Wednesday
 
 **Today's Progress**
 
@@ -73,7 +91,7 @@
 
 1.
 
-### Day 128 2020 March 23, Tuesday
+### Day 128 2021 March 23, Tuesday
 
 **Today's Progress**
 
@@ -87,7 +105,7 @@
 
 1.
 
-### Day 127 2020 March 22, Monday
+### Day 127 2021 March 22, Monday
 
 **Today's Progress**
 
@@ -101,7 +119,7 @@ each touch console.log
 
 1.
 
-### Day 126 2020 March 21, Sunday
+### Day 126 2021 March 21, Sunday
 
 **Today's Progress**
 
@@ -114,7 +132,7 @@ each touch console.log
 
 1.
 
-### Day 125 2020 March 20, Saturday
+### Day 125 2021 March 20, Saturday
 
 **Today's Progress**
 
@@ -126,7 +144,7 @@ each touch console.log
 
 1. local
 
-### Day 124 2020 March 19, Friday
+### Day 124 2021 March 19, Friday
 
 **Today's Progress**
 
@@ -138,7 +156,7 @@ each touch console.log
 
 1. local
 
-### Day 123 2020 March 18, Thursday
+### Day 123 2021 March 18, Thursday
 
 **Today's Progress**
 
@@ -150,7 +168,7 @@ each touch console.log
 
 1. local
 
-### Day 122 2020 March 17, Wednesday
+### Day 122 2021 March 17, Wednesday
 
 **Today's Progress**
 
@@ -167,7 +185,7 @@ Couple of smaller things today
 
 1.
 
-### Day 121 2020 March 16, Tuesday
+### Day 121 2021 March 16, Tuesday
 
 **Today's Progress**
 
@@ -180,7 +198,7 @@ Couple of smaller things today
 
 1. css-shape-outside
 
-### Day 120 2020 March 15, Monday
+### Day 120 2021 March 15, Monday
 
 **Today's Progress**
 
@@ -193,13 +211,13 @@ Couple of smaller things today
 
 1. 3d-cube-js-global-variable-Git
 
-### Day 119 2020 March 14, Sunday
+### Day 119 2021 March 14, Sunday
 
 **Today's Progress**:
 
 1. Tidy up the JS 3D tool
 
-### Day 118 2020 March 13, Saturday
+### Day 118 2021 March 13, Saturday
 
 **Today's Progress**:
 
@@ -211,7 +229,7 @@ Couple of smaller things today
 
 1. 3d-cube-js-global-variable-Git
 
-### Day 117 2020 March 12, Friday
+### Day 117 2021 March 12, Friday
 
 **Today's Progress**:
 
@@ -225,7 +243,7 @@ samples still.
 
 1.
 
-### Day 116 2020 March 11, Thursday
+### Day 116 2021 March 11, Thursday
 
 **Today's Progress**:
 
@@ -238,7 +256,7 @@ samples still.
 
 1.
 
-### Day 115 2020 March 10, Wednesday
+### Day 115 2021 March 10, Wednesday
 
 **Today's Progress**:
 
@@ -250,7 +268,7 @@ samples still.
 
 1.
 
-### Day 114 2020 March 9, Tuesday
+### Day 114 2021 March 9, Tuesday
 
 **Today's Progress**:
 
@@ -264,7 +282,7 @@ class.
 
 1.
 
-### Day 113 2020 March 8, Monday
+### Day 113 2021 March 8, Monday
 
 **Today's Progress**:
 
@@ -277,7 +295,7 @@ class.
 
 1.
 
-### Day 112 2020 March 7, Sunday
+### Day 112 2021 March 7, Sunday
 
 **Today's Progress**:
 
@@ -290,7 +308,7 @@ class.
 
 1.
 
-### Day 111 2020 March 6, Saturday
+### Day 111 2021 March 6, Saturday
 
 **Today's Progress**:
 
@@ -304,7 +322,7 @@ class.
 
 1. [100 Days of Code R3](https://github.com/siramsay/100-days-of-code-R3)
 
-### Day 110 2020 March 5, Friday
+### Day 110 2021 March 5, Friday
 
 **Today's Progress**:
 
@@ -317,7 +335,7 @@ class.
 
 1.
 
-### Day 109 2020 March 4, Thursday
+### Day 109 2021 March 4, Thursday
 
 **Today's Progress**:
 
@@ -329,7 +347,7 @@ class.
 
 1.
 
-### Day 108 2020 March 3, Wednesday
+### Day 108 2021 March 3, Wednesday
 
 **Today's Progress**:
 
@@ -341,7 +359,7 @@ class.
 
 1.
 
-### Day 107 2020 March 2, Tuesday
+### Day 107 2021 March 2, Tuesday
 
 **Today's Progress**:
 
@@ -355,7 +373,7 @@ class.
 
 1.
 
-### Day 106 2020 March 1, Monday
+### Day 106 2021 March 1, Monday
 
 **Today's Progress**:
 
@@ -367,7 +385,7 @@ class.
 
 1.
 
-### Day 105 2020 February 28, Sunday
+### Day 105 2021 February 28, Sunday
 
 **Today's Progress**:
 
@@ -381,7 +399,7 @@ class.
 
 1.
 
-### Day 104 2020 February 27, Saturday
+### Day 104 2021 February 27, Saturday
 
 **Today's Progress**:
 
@@ -393,7 +411,7 @@ class.
 
 1.
 
-### Day 103 2020 February 26, Friday
+### Day 103 2021 February 26, Friday
 
 **Today's Progress**:
 
@@ -405,7 +423,7 @@ class.
 
 1.
 
-### Day 102 2020 February 25, Thursday
+### Day 102 2021 February 25, Thursday
 
 **Today's Progress**:
 
@@ -417,7 +435,7 @@ class.
 
 1.
 
-### Day 101 2020 February 24, Wednesday
+### Day 101 2021 February 24, Wednesday
 
 **Today's Progress**:
 
