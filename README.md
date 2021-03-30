@@ -7,8 +7,8 @@
 *Weather Feed on niseko snow*
 1. Write (Pseudo) code to hide the table columns for previous timeframes. Only leave one old timeframe.
 2. Test code and push to all rows. Add CSS to hide columns and then remove until next step is worked out.
-3. Pseudo code to fix table day/date header, e.g. Mon 29 Mar need to be hidden if before 9 and also colspan needs to be adjusted
-4. Write in test code to 
+3. Pseudo code to fix table day/date header, e.g. Mon 29 Mar need to be hidden if before 9 and also colspan needs to be adjusted.
+4. Write and test code for day/date header and prep. Pseudocode in dev note book.  
 
 **Thoughts:**
 * Edge case where fetch ar 9:00AM fails will case this solution to fail. Maybe write a test/ function to record this event.
