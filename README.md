@@ -1,6 +1,40 @@
 # 100 Days Of Code - Log
 
+### Day 137 2021 March 31, Wednesday
+
+**Today's Progress**
+
+*Reveal Hide JavaScript Image Viewer*
+1. Tidy up a few minor things.
+   * Mobile usage message. 
+   * @media 4 queries for hover refactored, made hover box-shadow wider since hover and touch are cancelling each other.
+2. Strip out comments and format for Codepen
+3. Add to Codepen and fix a few small display problems, like leaving out * { box-sizing rule which effected mobile display }
+
+**Thoughts:**
+* Good to put this to rest, but now want to refactor with different set up for Touch due to touch and hover conflict.
+
+**Link to work:**
+
+1. [Hide Reveal Image Display ](https://codepen.io/simonramsay/full/mdROdEo)
+
 ### Day 136 2021 March 30, Tuesday
+
+**Today's Progress**
+
+*Weather Feed on niseko snow*
+1. Write (Pseudo) code to hide the table columns for previous timeframes. Only leave one old timeframe.
+2. Test code and push to all rows. Add CSS to hide columns and then remove until next step is worked out.
+3. Pseudo code to fix table day/date header, e.g. Mon 29 Mar need to be hidden if before 9 and also colspan needs to be adjusted.
+4. Write and test code for day/date header and prep. Pseudocode in dev note book.
+
+**Thoughts:**
+* Edge case where fetch at 9:00AM fails will cause this solution to fail. Maybe write a test/ function to record this event. 
+* The display as such won't fail as data is cached, the switch statement will just reset to the previous day. 
+
+**Link to work:**
+
+1.
 
 **Today's Progress**
 
