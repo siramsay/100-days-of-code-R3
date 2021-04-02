@@ -1,4 +1,26 @@
-# 100 Days Of Code - Log
+# Round 3 /  100 Days Of Code - Log
+For this Round I decided to start my own log instead of forking the 100 day of code repository. 
+
+
+### Day 138 2021 April 1, Thursday
+
+**Today's Progress**
+
+*React Project*
+1. Fire up old React project just for giggles, bit of git branch checkouts, bit of JSX. 
+
+*Vue.js Shop App / Testing for UI design*
+1. Added some values to the previous order array as per prototype drawings.
+2. Add the App meta for homescreen and status bar style in header.
+
+*Weather Feed on niseko snow*
+1. Comment code and review and write Psuedocode for the day/date table header, work out colspan value equation
+
+**Thoughts:**
+* 1 day of small tasks across a few projects is good to finish up stuff or plan bigger tasks.
+
+**Link to work:**
+
 
 ### Day 137 2021 March 31, Wednesday
 
