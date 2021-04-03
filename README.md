@@ -1,6 +1,32 @@
 # Round 3 /  100 Days Of Code - Log
 For this Round I decided to start my own log instead of forking the 100 day of code repository. 
 
+### Day 140 2021 April 3, Saturday
+
+**Today's Progress**
+
+*Weather Feed on niseko snow homepage*
+1.
+
+**Thoughts:**
+*
+
+**Link to work:**
+1. [Niseko Snow Weather](https://nisekosnow.net/)
+
+### Day 139 2021 April 2, Friday
+
+**Today's Progress**
+
+*Weather Feed on niseko snow table head Day/ Date Month*
+1. Code colspan value equation with static values, test. 
+2. Work on 0 -1 -2 values and next day, code out b
+
+**Thoughts:**
+* 
+
+**Link to work:**
+1. [Niseko Snow Weather](https://nisekosnow.net/niseko-weather-snowfall)
 
 ### Day 138 2021 April 1, Thursday
 
@@ -14,7 +40,7 @@ For this Round I decided to start my own log instead of forking the 100 day of c
 2. Add the App meta for homescreen and status bar style in header.
 
 *Weather Feed on niseko snow*
-1. Comment code and review and write Psuedocode for the day/date table header, work out colspan value equation
+1. Comment code and review and write Psuedocode for the table head Day/ Date Month, work out colspan value equation.
 
 **Thoughts:**
 * 1 day of small tasks across a few projects is good to finish up stuff or plan bigger tasks.
