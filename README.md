@@ -1,15 +1,35 @@
 # Round 3 /  100 Days Of Code - Log
 For this Round I decided to start my own log instead of forking the 100 day of code repository. 
 
+### Day 141 2021 April 4, Sunday
+
+**Today's Progress**
+
+*Weather Feed on niseko snow homepage*
+1. Add gradient to weather module
+
+**Thoughts:**
+* After trying to bend main template I add the gradient overlay to the iframe source. Working with old float templates and multiple media queires is not worth it. 
+
+**Todo**
+* Admin/ inputs for mobile
+* Ad Sense new animated ads on mobile are positioned down and under the header. 
+
+**Link to work:**
+1. [Niseko Snow Weather](https://nisekosnow.net/)
+
 ### Day 140 2021 April 3, Saturday
 
 **Today's Progress**
 
 *Weather Feed on niseko snow homepage*
-1.
+1. Copy page and refactor for iframe
+2. tweak mobile layout for the whole site and review layout
+3. Add new iframe to site, adjust size, test 
 
 **Thoughts:**
-*
+* Need to look at refactoring the code to use OO design.
+* Mobile iframe vertical height is different from the desktop
 
 **Link to work:**
 1. [Niseko Snow Weather](https://nisekosnow.net/)
