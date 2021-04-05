@@ -1,5 +1,22 @@
 # Round 3 /  100 Days Of Code - Log
-For this Round I decided to start my own log instead of forking the 100 day of code repository. 
+For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
+I wanted to use this repo to track my progress my registering my work as a commit.
+
+### Day 142 2021 April 5, Monday
+
+**Today's Progress**
+
+*niseko snow template fixes*
+1. Fix minor centering issues for ads. by introducing flex to the codebase.
+
+**Thoughts:**
+* 
+
+**Todo**
+
+
+**Link to work:**
+1. [Niseko Snow Weather](https://nisekosnow.net/)
 
 ### Day 141 2021 April 4, Sunday
 
@@ -9,7 +26,7 @@ For this Round I decided to start my own log instead of forking the 100 day of c
 1. Add gradient to weather module
 
 **Thoughts:**
-* After trying to bend main template I add the gradient overlay to the iframe source. Working with old float templates and multiple media queires is not worth it. 
+* After trying to bend main template I added the gradient overlay to the iframe source. Working with old float templates and multiple media queires is not worth it. 
 
 **Todo**
 * Admin/ inputs for mobile
