@@ -2,18 +2,31 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+
+
+**Link to work:**
+1. [Link](https://simonramsay.net)
+
+### Day 143 2021 April 6, Tuesday
+
+**Today's Progress**
+
+*Vue.js - simonramsay.net to prepare for new version*
+1. Fixed the layout shift, first by adding wrappers to all the sections but worked out it was the mode out-in on the transition.
+
+**Thoughts:**
+* Nice to working on this again. 
+
+**Link to work:**
+1. [Simon Ramsay](https://simonramsay.net)
+
 ### Day 142 2021 April 5, Monday
 
 **Today's Progress**
 
 *niseko snow template fixes*
-1. Fix minor centering issues for ads. by introducing flex to the codebase.
-
-**Thoughts:**
-* 
-
-**Todo**
-
+1. Finish up the gradient, fix size on mobile as it was set at 428px and gradient wasn't showing unless set to 40% width.
+2. Fix minor centering issues for ads. by introducing flex to the codebase. 
 
 **Link to work:**
 1. [Niseko Snow Weather](https://nisekosnow.net/)
@@ -23,7 +36,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 **Today's Progress**
 
 *Weather Feed on niseko snow homepage*
-1. Add gradient to weather module
+1. Add gradient to weather module, was a little trouble-some. 
 
 **Thoughts:**
 * After trying to bend main template I added the gradient overlay to the iframe source. Working with old float templates and multiple media queires is not worth it. 
