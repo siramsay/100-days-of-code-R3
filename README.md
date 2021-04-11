@@ -2,10 +2,71 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 147 2021 April 10, Saturday
 
+**Today's Progress**
+
+*Vue.js*
+1. Make contact--tpl in Druapl using Debug from April 7
+2. Install Security Mdoule 
+3. tested https://csp-evaluator.withgoogle.com/
+4. Update  Vue.js App 
+
+**Thoughts:**
+* In the end using basic authentication and API POST moght have been as fast but I learnt about Сontent-Security-Policy and X-frame. 
+
+**Link to work:**
+1. [SR contact page - iframe is offline](https://simonramsay.net/contact)
+
+### Day 146 2021 April 9, Friday
+
+**Today's Progress**
+
+*Vue.js*
+1. Routes on simonramsay.net, added a contact route, view, and component
+2. Added iframe with form on the contact page/route
+3. Troubleshooted X-frame-options. 
+4. Learnt about netify toml file even though possibly note needed.
+
+**Thoughts:**
+* The X-frame-options and Сontent-Security-Policy, this is kind of confusing as it seem it is the client that needs it but as you would expect it is the Host that needs it. Also X-frame-options seems like it is obsolete or at least the allow-from property is on chrome and safari.   
+
+**Todo**
+* remove toml file 
 
 **Link to work:**
 1. [Link](https://simonramsay.net)
+
+### Day 145 2021 April 8, Thursday
+
+**Today's Progress**
+
+*Vue.js*
+1. Updated Node: installed nvm. 
+2. Fired up a Vue.js 3
+3. Installed grid js and troubleshooted, no luck.
+4. Installed grid js on Vue.js 2 with no issues
+
+**Thoughts:**
+*
+
+**Link to work:**
+1. Local
+
+### Day 144 2021 April 7, Wednesday
+
+**Today's Progress**
+
+*Drupal Template Debug*
+
+1. Implement Debug for Twig on local dev. environment
+2. Create a template for the contact form override.
+
+**Thoughts:**
+*
+
+**Link to work:**
+1. Local
 
 ### Day 143 2021 April 6, Tuesday
 
