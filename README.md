@@ -2,6 +2,20 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 148 2021 April 11, Sunday
+
+**Today's Progress**
+
+*Vue.js*
+1. Post
+2. 
+
+**Thoughts:**
+* In the end using basic authentication and API POST moght have been as fast but I learnt about Сontent-Security-Policy and X-frame.
+
+**Link to work:**
+1. [SR contact page - iframe is offline](https://simonramsay.net/contact)
+
 ### Day 147 2021 April 10, Saturday
 
 **Today's Progress**
