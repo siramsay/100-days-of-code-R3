@@ -2,19 +2,53 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
-### Day 148 2021 April 11, Sunday
+### Day 151 2021 April 14, Wednesday
 
 **Today's Progress**
 
 *Vue.js*
-1. Post
-2. 
+1. CORS / pre-flight testing
+
+**Todo**
+* https://vuejs.org/v2/cookbook/form-validation.html
+
+**Link to work:**
+1. [Link](https://simonramsay.net)
+
+### Day 150 2021 April 13, Tuesday
+
+**Today's Progress**
+
+*Vue.js*
+1. Post Trouble Shoot
+2. https://securityheaders.com/
+
+**Link to work:**
+1. [SR contact page - iframe is offline](https://simonramsay.net/contact-us)
+
+### Day 149 2021 April 12, Monday
+
+**Today's Progress**
+
+*Vue.js*
+1. Post Build out axios request on router
 
 **Thoughts:**
 * In the end using basic authentication and API POST moght have been as fast but I learnt about Сontent-Security-Policy and X-frame.
 
 **Link to work:**
-1. [SR contact page - iframe is offline](https://simonramsay.net/contact)
+1. [SR contact page - iframe is offline](https://simonramsay.net/contact-us)
+
+### Day 148 2021 April 11, Sunday
+
+**Today's Progress**
+
+*Vue.js*
+1. Post / Router for contact us
+2. build form and data & method object in vue
+
+**Link to work:**
+1. Local
 
 ### Day 147 2021 April 10, Saturday
 
@@ -22,12 +56,12 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 *Vue.js*
 1. Make contact--tpl in Druapl using Debug from April 7
-2. Install Security Mdoule 
+2. Install Security Module 
 3. tested https://csp-evaluator.withgoogle.com/
-4. Update  Vue.js App 
+4. Update Vue.js App 
 
 **Thoughts:**
-* In the end using basic authentication and API POST moght have been as fast but I learnt about Сontent-Security-Policy and X-frame. 
+* In the end using basic authentication and API POST might have been as faster but I learnt about Сontent-Security-Policy and X-frame. 
 
 **Link to work:**
 1. [SR contact page - iframe is offline](https://simonramsay.net/contact)
