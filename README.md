@@ -2,6 +2,18 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 152 2021 April 15, Thursday
+
+**Today's Progress**
+
+*Vue.js*
+1. Test same origin POST DELETE using fetch.
+2. Add v-model / adjust drupal json:data object to work with v-model 
+3. Document full issue for cross origin POST / see Quiver
+
+**Link to work:**
+1. [Link](https://digikojo.com/) post.html / temporary
+
 ### Day 151 2021 April 14, Wednesday
 
 **Today's Progress**
@@ -13,7 +25,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 * https://vuejs.org/v2/cookbook/form-validation.html
 
 **Link to work:**
-1. [Link](https://simonramsay.net)
+1. [SR contact page - iframe is offline](https://simonramsay.net/contact-us)
 
 ### Day 150 2021 April 13, Tuesday
 
