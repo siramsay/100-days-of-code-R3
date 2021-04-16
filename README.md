@@ -2,6 +2,17 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 153 2021 April 16, Friday
+
+**Today's Progress**
+
+*Drupal Templating*
+1. Move templates for SPA work, document/note regions for default templates. 
+2. Minor Class adjustments for paragraphs wrapper, need to make this .
+
+**Link to work:**
+1. 
+
 ### Day 152 2021 April 15, Thursday
 
 **Today's Progress**
