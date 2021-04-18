@@ -2,6 +2,34 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 155 2021 April 18, Sunday
+
+**Today's Progress**
+
+*Weather Module*
+1. Write basic test class.
+2. Workout how to make the switch reusable.
+3. Get class to work and then return an array with 2 values 
+4. Tidy up Git branching 
+
+**Todo**
+* Using the time change the theme background colour
+
+**Link to work:**
+1. Local
+
+### Day 154 2021 April 17, Saturday
+
+**Today's Progress**
+
+*Weather Module*
+1. Compare and find function(s) that could be abstracted out as a class.
+2. Git init on remote and clone 
+3. Create new lib, namespace, class / review how this works
+
+**Link to work:**
+1. Local
+
 ### Day 153 2021 April 16, Friday
 
 **Today's Progress**
@@ -11,7 +39,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 2. Minor Class adjustments for paragraphs wrapper, need to make this .
 
 **Link to work:**
-1. 
+1. Temporary dev. site
 
 ### Day 152 2021 April 15, Thursday
 
