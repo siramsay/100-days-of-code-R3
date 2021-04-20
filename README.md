@@ -2,6 +2,26 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 155 2021 April 20, Tuesday
+
+**Today's Progress**
+
+*Perihelion*
+1. 
+
+**Link to work:**
+1. Local
+
+### Day 155 2021 April 19, Monday
+
+**Today's Progress**
+
+*Perihelion*
+1. Git clone
+
+**Link to work:**
+1. Local
+
 ### Day 155 2021 April 18, Sunday
 
 **Today's Progress**
