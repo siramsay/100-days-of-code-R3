@@ -2,22 +2,37 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
-### Day 155 2021 April 20, Tuesday
+### Day 158 2021 April 21, Wednesday
 
 **Today's Progress**
 
-*Perihelion*
-1. 
+*Reveal Hide JavaScript Image Viewer*
+1. Style switch winter image button
+2. add functionality on desktop switch image button, disable & dim on 75% being covered. remove add class to control hover.
 
 **Link to work:**
 1. Local
 
-### Day 155 2021 April 19, Monday
+### Day 157 2021 April 20, Tuesday
 
 **Today's Progress**
 
 *Perihelion*
-1. Git clone
+1. Run built in PHP server from in src directory to correctly
+2. Set Up mySQL on macbook with no luck
+3. Create, Import database to desktop. Create user INSERT. 
+
+**Link to work:**
+1. Local
+
+### Day 156 2021 April 19, Monday
+
+**Today's Progress**
+
+*Perihelion*
+1. Git clone repository.
+2. Look at code base and run using built in PHP server
+3. trouble shoot require, document root issue
 
 **Link to work:**
 1. Local
