@@ -2,12 +2,27 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 159 2021 April 22, Thursday 
+
+**Today's Progress**
+
+*Reveal Hide JavaScript Image Viewer*
+1. disable & dim on 75% being covered added to 100% width screens, touch and mouse.
+2. documented project 
+
+*Perihelion*
+1. created user and user roll entries in the database.
+2. got auto-recovery and password reset to work without mail server. 
+
+**Link to work:**
+1. Local
+
 ### Day 158 2021 April 21, Wednesday
 
 **Today's Progress**
 
 *Reveal Hide JavaScript Image Viewer*
-1. Style switch winter image button
+1. Style switch winter image button.
 2. add functionality on desktop switch image button, disable & dim on 75% being covered. remove add class to control hover.
 
 **Link to work:**
