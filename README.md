@@ -9,6 +9,9 @@ I wanted to use this repo to track my progress my registering my work as a commi
 *3D cube*
 1. 3D cube library, refactor depth and rename
 
+*Perihelion*
+1. Create insert statements for fresh install.
+
 **Link to work:**
 1. Local: /  3d-cube-double-face/3d-cube-steps.html
 
