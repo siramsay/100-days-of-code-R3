@@ -2,12 +2,34 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 166 2021 April 29, Thursday
+
+**Today's Progress**
+
+*3D cube*
+1. 3D cube library: Make depth and all classes work from variables. 
+   - Only translateY on top and bottom working
+   - 50% depth okay with any height
+   
+**Link to work:**
+1. Local: /  3d-cube-double-face/3d-cube-steps.html
+
 ### Day 165 2021 April 28, Wednesday
 
 **Today's Progress**
 
 *3D cube*
-1. 3D cube library, refactor depth and rename
+1. 3D cube library, refactor depth to be actual depth, see git branches.
+
+**Link to work:**
+1. Local: /  3d-cube-double-face/3d-cube-steps.html
+
+### Day 165 2021 April 28, Wednesday
+
+**Today's Progress**
+
+*3D cube*
+1. 3D cube library, refactor depth and rename classes. 
 
 **Link to work:**
 1. Local: /  3d-cube-double-face/3d-cube-steps.html
