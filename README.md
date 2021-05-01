@@ -8,10 +8,12 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 *3D cube*
 1. 3D cube library: Refactor code, split into utility code and control code
+
+*To do*
+1. Look at how the code might work better with height set on out square.
    
 **Link to work:**
 1. Local: /  3d-cube-double-face/3d-cube-steps.html
-
 
 ### Day 167 2021 April 30, Friday
 
