@@ -2,6 +2,18 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 169 2021 May 2, Sunday
+
+**Today's Progress**
+
+*Perihelion*
+1. Get Content Create working
+2. Add Font Awesome
+3. Document
+
+**Link to work:**
+1. Local: / Laptop
+
 ### Day 168 2021 May 1, Saturday
 
 **Today's Progress**
@@ -11,9 +23,16 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 *To do*
 1. Look at how the code might work better with height set on out square.
-   
+
 **Link to work:**
 1. Local: /  3d-cube-double-face/3d-cube-steps.html
+
+*Perihelion*
+1. Fix Laptop MySQL perms
+2. Document installer so far. Run through it.
+
+**Link to work:**
+1. Local: / Laptop
 
 ### Day 167 2021 April 30, Friday
 
