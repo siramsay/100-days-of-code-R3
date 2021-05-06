@@ -2,6 +2,38 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 173 2021 May 6, Thursday
+
+**Today's Progress**
+
+*Drupal Vue.js contd.*
+1. Set up and get working. Trouble shooting.
+2. Clean up
+
+*Thoughts*
+1. Good lesson once again, being looged i causes the CSF token issue but didn't think to check login status in chrome.
+2. I respect to the above it wasn't until I went for a break that I thought maybe I was logged even though it had been a while since I have been working on this code.
+
+**Link to work:**
+1. Local / digikojo.com/post-app
+
+### Day 172 2021 May 5, Wednesday
+
+**Today's Progress**
+
+*3D cube Library*
+1. Played around with 3d cube library
+
+**Link to work:**
+1. 1. Local: /  3d-cube-library/
+
+*Drupal Vue.js*
+1. composer require key_authen. module
+2. Set up and get working.
+
+**Link to work:**
+1. Local / digikojo.com/post-app
+
 ### Day 171 2021 May 4, Tuesday
 
 **Today's Progress**
