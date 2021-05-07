@@ -13,6 +13,15 @@ I wanted to use this repo to track my progress my registering my work as a commi
 **Link to work:**
 1. Local / digikojo.com/post-app
 
+*3D cube Library*
+1. Played around with 3d cube library by making stacked and lined up cubes.
+
+*Thoughts*
+1. The perspective on the cubes seems to individual, need to look at transform functions.
+
+**Link to work:**
+1. 1. Local: /  3d-cube-library/ branch cube-repeat
+
 ### Day 173 2021 May 6, Thursday
 
 **Today's Progress**
