@@ -2,12 +2,23 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 174 2021 May 7, Friday
+
+**Today's Progress**
+
+*Drupal Vue.js contd.*
+1. Work on CORS file to work out need values
+2. Clean up for article
+
+**Link to work:**
+1. Local / digikojo.com/post-app
+
 ### Day 173 2021 May 6, Thursday
 
 **Today's Progress**
 
 *Drupal Vue.js contd.*
-1. Set up and get working. Trouble shooting.
+1. Set up and get working. Trouble-shooting.
 2. Clean up
 
 *Thoughts*
