@@ -2,16 +2,43 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 176 2021 May 10, Monday
+
+**Today's Progress**
+
+*Drupal Vue.js: Cross Origin & COR and Security Kit*
+1. Worked on getting iframe cross origin set up again.
+2. Troubleshoot with no luck on cross origin post.
+
+**Link to work:**
+1. Local / vue-cli: simonramsay.net
+
+### Day 176 2021 May 9, Sunday
+
+**Today's Progress**
+
+*3D cube Library*
+1. Finalise some rules for the library
+
+**Link to work:**
+1. Local: / 3d-cube-library/ branch cube-repeat
+
+*Drupal Vue.js contd.*
+1. Cross Origin preparation
+
+**Link to work:**
+1. Local / vue-cli: simonramsay.net 
+   
 ### Day 175 2021 May 8, Saturday
 
 **Today's Progress**
 
 *3D cube Library*
-1. Played around with 3d cube library by making stacked and lined up cubes. contd. Fixed the perspcetive issue from yesterday
+1. Played around with 3d cube library by making stacked and lined up cubes. contd. Fixed/reviewed the perspcetive issue from yesterday
 2. Worked on outline and border
 
 **Link to work:**
-1. 1. Local: /  3d-cube-library/ branch cube-repeat
+1. Local: /  3d-cube-library/ branch cube-repeat
    
 ### Day 174 2021 May 7, Friday
 
@@ -31,7 +58,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 1. The perspective on the cubes seems to individual, need to look at transform functions.
 
 **Link to work:**
-1. 1. Local: /  3d-cube-library/ branch cube-repeat
+1. Local: /  3d-cube-library/ branch cube-repeat
 
 ### Day 173 2021 May 6, Thursday
 
@@ -56,7 +83,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 1. Played around with 3d cube library
 
 **Link to work:**
-1. 1. Local: /  3d-cube-library/
+1. Local: /  3d-cube-library/
 
 *Drupal Vue.js*
 1. composer require key_authen. module
@@ -76,7 +103,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 1. This borders seems like a Bug*
 
 **Link to work:**
-1. 1. Local: /  3d-cube-library/
+1. Local: /  3d-cube-library/
 
 ### Day 170 2021 May 3, Monday
 
@@ -89,7 +116,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 4. TBC
 
 **Link to work:**
-1. 1. Local: /  3d-cube-library/
+1. Local: /  3d-cube-library/
 
 ### Day 169 2021 May 2, Sunday
 
