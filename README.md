@@ -2,7 +2,23 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
-### Day 175 2021 May 8, Saturday
+### Day 180 2021 May 14, Thursday
+
+**Today's Progress**
+
+*3D cube Library*
+1. Look at the possibility of making more than one cube of each type with different dimensions.
+
+**Thoughts**
+- The idea is not possible as is because the variables aren't able to be scoped. i.e. if you change --depth it changes all elements. 
+- With JavaScript and inline styles you could be it.
+- Generating all the classes and making it shakable could work.
+- A preprocessor could work.
+
+**Link to work:**
+1. Local: /  3d-cube-library/ branch all and make new whole-number-values
+
+### Day 179 2021 May 13, Wednssday
 
 **Today's Progress**
 
@@ -11,7 +27,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 2. Experimented with whole numbers for width, height, depth
 
 **Thoughts**
-- This really needs to be drawn out. However with correct documetation and/or a UI this will be more powerful. 
+- This really needs to be drawn out. However, with correct documetation and/or a UI this will be more powerful. 
 - Be good only needing to add classes to the cube wrapper. 
 - Testing these - for list items in MD :🤠
 
