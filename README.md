@@ -2,7 +2,20 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
-### Day 180 2021 May 14, Thursday
+### Day 181 2021 May 14, Friday
+
+**Today's Progress**
+
+*3D cube Library*
+1. Contd. Look at the possibility of making more than one cube of each type with different dimensions.
+- Looked at container queries
+- Looked at attribute selectors
+
+**Link to work:**
+1. Local: /  3d-cube-library/ branch all and make new whole-number-values
+
+
+### Day 180 2021 May 13, Thursday
 
 **Today's Progress**
 
@@ -18,7 +31,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 **Link to work:**
 1. Local: /  3d-cube-library/ branch all and make new whole-number-values
 
-### Day 179 2021 May 13, Wednssday
+### Day 179 2021 May 12, Wednesday
 
 **Today's Progress**
 
