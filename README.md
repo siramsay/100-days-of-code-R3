@@ -2,6 +2,30 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 185 2021 May 18, Tuesday
+
+**Today's Progress**
+
+*Drupal Vue.js: basic validation and JSON:API object modifications*
+1. Added some basic validation and clearing of input.
+2. testing localhost in allowed origins. 
+
+**Thoughts**
+Need to look at async await as the clearing of input didn't work after then. Need to add await. See notes.
+
+**Link to work:**
+1. Local: Temporary and simonramsay.net/contact-us / Article Vue.js Post Part 2
+
+### Day 184 2021 May 17, Monday
+
+**Today's Progress**
+
+*Drupal Vue.js: Post and vhost header*
+1. testing full needs for cross-origin posting.
+
+**Link to work:**
+1. Local: Temporary and simonramsay.net/contact-us / Article Vue.js Post Part 2  
+
 ### Day 183 2021 May 16, Sunday
 
 **Today's Progress**
