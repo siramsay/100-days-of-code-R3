@@ -6,6 +6,17 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 **Today's Progress**
 
+*3D library test run*
+
+1. Create a basic shop screen
+
+**Link to work**
+1. Local: / 3D Library
+
+### Day 189 2021 May 22, Saturday
+
+**Today's Progress**
+
 *Vue CLI*
 1. Work on .then to clear input after response is returned / contd. & then used  async await
 
