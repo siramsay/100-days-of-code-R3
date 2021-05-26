@@ -2,6 +2,27 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 193 2021 May 25, Wednesday
+
+**Today's Progress**
+
+*Vue CLI / Drupal*
+1. Template Twig Suggestions
+2. Logo Removal 
+
+**Link to work:**
+1. Local: /  Vue-cli simonramsay.net
+
+### Day 192 2021 May 25, Tuesday
+
+**Today's Progress**
+
+*Vue CLI / Drupal*
+1. Template Twig Suggestions
+
+**Link to work:**
+1. Local: /  Vue-cli simonramsay.net
+
 ### Day 191 2021 May 24, Monday
 
 **Today's Progress**
