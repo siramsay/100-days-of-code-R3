@@ -2,7 +2,32 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
-### Day 193 2021 May 25, Wednesday
+### Day 195 2021 May 28, Friday
+
+**Today's Progress**
+
+*Vue CLI / Flexbox and Grid*
+1. Work on navigtaion to make it sticky at top.
+2. Look at Flexbox solution to "float" :last-child to right
+3. Look at Grid options
+4. Use Flexbox
+
+**Link to work:**
+1. Local: /  Vue-cli simonramsay.net
+
+### Day 194 2021 May 27, Thursday
+
+**Today's Progress**
+
+*Vue CLI*
+1. Install nprogress
+2. Add it to router with code splitting / this did work as set up
+3. Remove code splitting / works
+
+**Link to work:**
+1. Local: /  Vue-cli simonramsay.net
+
+### Day 193 2021 May 26, Wednesday
 
 **Today's Progress**
 
@@ -17,7 +42,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 **Today's Progress**
 
-*Vue CLI / Drupal*
+*Vue CLI / Drupal*dy
 1. Template Twig Suggestions
 
 **Link to work:**
