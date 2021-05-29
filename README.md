@@ -2,6 +2,17 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 196 2021 May 29, Saturday
+
+**Today's Progress**
+
+*Niseko Weather API*
+1. Code up change for API changes / if timeframe and date conditionals
+
+**Link to work:**
+1. nisekosnow.net/weather
+
+
 ### Day 195 2021 May 28, Friday
 
 **Today's Progress**
