@@ -2,6 +2,26 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 217 2021 Jun 19, Friday
+
+**Today's Progress**
+
+*Vue.cli*
+1. deal with response from Drupal / continue with yesterday's investigation.
+
+**Link to work:**
+1. Local / vue-cli and github/ simonramsay.net/contact-us
+
+### Day 216 2021 Jun 18, Thursday
+
+**Today's Progress**
+
+*Vue.cli*
+1. deal with response from Drupal / hard to match the response of an 422 unprocessible entity to the field without also validating the field.
+
+**Link to work:**
+1. Local / vue-cli and github/ simonramsay.net/contact-us
+
 ### Day 215 2021 Jun 17, Thursday
 
 **Today's Progress**
