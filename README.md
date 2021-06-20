@@ -8,7 +8,8 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 *3D Cubes Utility*
 1. Get familiar with branches again
-2. Work out numbers to percents
+2. Add notes to branch *whole-number-dimensions-height
+3. Work out numbers to percents
 
 **Link to work:**
 1. Local / 
