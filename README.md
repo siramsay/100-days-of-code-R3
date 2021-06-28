@@ -9,6 +9,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 *3D Cubes Utility*
 1. Work out the left and right sides transform for the centred cube.
+- The solution was to add flex display and centre the elements so that all measurement of the transform was calculated from the centre. The only way to really see this was to visually study it and start with a clean slate. i.e remove all transforms values on the faces.
 - See todo in code and book #
 
 **Link to work:**
