@@ -2,6 +2,17 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 227 2021 Jun 29, Tuesday
+
+**Today's Progress**
+
+*3D Cubes Utility*
+1. Code the solution from yesterday
+2. Review the current state of the library
+3. Add a JS script to look at e.target properties and values 
+
+**Link to work:**
+1. Local /
 
 ### Day 226 2021 Jun 28, Monday
 
