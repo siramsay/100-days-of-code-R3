@@ -2,6 +2,26 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 234 2021 Jul 6, Tuesday
+
+**Today's Progress**
+
+*MVC*
+1. Work on Model & add method
+
+**Link to work:**
+1. Local
+
+### Day 233 2021 Jul 5, Monday
+
+**Today's Progress**
+
+*MVC*
+1. Work on Model to understand it more.
+
+**Link to work:**
+1. Local
+
 ### Day 232 2021 Jul 4, Sunday
 
 **Today's Progress**
