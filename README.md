@@ -2,6 +2,40 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 238 2021 Jul 10, Saturday
+
+**Today's Progress**
+
+*MVC*
+1. Require Twig
+2. Get Twig working
+
+**Link to work:**
+1. Local
+
+### Day 237 2021 Jul 9, Friday
+
+**Today's Progress**
+
+*Slider Viewer*
+1. Recode for article
+
+**Link to work:**
+1. Local
+
+
+### Day 236 2021 Jul 8, Thursday
+
+**Today's Progress**
+
+*MVC*
+1. Form Styles
+2. minor layout centring
+
+**Link to work:**
+1. Local
+
+
 ### Day 235 2021 Jul 7, Wednesday
 
 **Today's Progress**
