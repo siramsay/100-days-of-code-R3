@@ -2,12 +2,34 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 242 2021 Jul 14, Wednesday
+
+**Today's Progress**
+
+*MVC*
+1. Plan out Validation needs for project
+2. Bootstrap From Validation classes
+
+**Link to work:**
+1. Local
+
+### Day 241 2021 Jul 13, Tuesday
+
+**Today's Progress**
+
+*MVC*
+1. Routes and Paths with new install, Issues & docs
+2. Pass POST url into twig
+
+**Link to work:**
+1. Local
+
 ### Day 240 2021 Jul 12, Monday
 
 **Today's Progress**
 
 *MVC*
-1. HTML from worked so went with that.
+1. HTML form worked so went with that.
 2. asset() for css path
 
 **Link to work:**
