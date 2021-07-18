@@ -2,6 +2,38 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 246 2021 Jul 18, Sunday
+
+**Today's Progress**
+
+*MVC*
+1. Work on Edit model, view, controller
+
+**Link to work:**
+1. Local
+
+
+### Day 245 2021 Jul 15, Saturday
+
+**Today's Progress**
+
+*Drupal*
+1. Drupal Themeing
+
+**Link to work:**
+1. Local
+
+### Day 244 2021 Jul 16, Friday
+
+**Today's Progress**
+
+*Drupal*
+1. Drupal Themeing
+
+**Link to work:**
+1. Local
+
+
 ### Day 243 2021 Jul 15, Thursday
 
 **Today's Progress**
