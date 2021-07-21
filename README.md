@@ -2,16 +2,48 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+
+### Day 249 2021 Jul 21, Wednesday
+
+**Today's Progress**
+
+*MVC*
+1. Solved the same problem as yesterday with Vue.js.
+
+*Thoughts*
+Even thought the Vue.js solution is much better solution, it maybe in-fact be the JS I was given was not a great solution or start of a solution.
+
+**Link to work:**
+1. Local
+
+
+### Day 248 2021 Jul 20, Tuesday
+
+**Today's Progress**
+
+*MVC*
+1. Worked on adding some Vanilla JS function to a view, addRow() to a table
+
+*Thoughts*
+This worked but having the whole DOM section created in JS seems a little un-friendly.
+
+
+**Link to work:**
+1. Local
+
 ### Day 247 2021 Jul 19, Monday
 
 **Today's Progress**
 
 *MVC*
-1. Switch form post to buttons for delete and edit
+1. Switch form post to buttons for delete and edit.
 2. Fix styles to remove default margin and padding. 
 
 *Drupal*
 1. Drupal theming testing for article part 1.
+
+*Thoughts*
+Having a starter tpl without a framework is important, but then knowing what frameworks offer is good so that when you add one you know what you need. 
 
 **Link to work:**
 1. Local
