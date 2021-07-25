@@ -2,6 +2,45 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 252 2021 Jul 24, Saturday
+
+**Today's Progress**
+
+**MVC**
+1. Plan final models/views/controllers for user validation and sessions.
+2. Research about salt and hashing.
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
+
+### Day 251 2021 Jul 23, Friday
+
+**Today's Progress**
+
+**Drupal and Server cofiguration exploration**
+1. Testing the user/perms needed to UI upload modules and themes.
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
+
+### Day 250 2021 Jul 22, Thursday
+
+**Today's Progress**
+
+*MVC*
+1. Finished coding up Vue.js frontend including add, delete, and a few basic validations.
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
 
 ### Day 249 2021 Jul 21, Wednesday
 
