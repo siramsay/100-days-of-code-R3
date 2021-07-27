@@ -2,6 +2,32 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 254 2021 Jul 26, Monday
+
+**Today's Progress**
+
+**Drupal and Server configuration exploration**
+1. Testing the user/perms needed to UI upload modules and themes (contd.)
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
+
+### Day 253 2021 Jul 25, Sunday
+
+**Today's Progress**
+
+**Drupal and Server configuration exploration**
+1. Testing the user/perms needed to UI upload modules and themes.
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
+
 ### Day 252 2021 Jul 24, Saturday
 
 **Today's Progress**
