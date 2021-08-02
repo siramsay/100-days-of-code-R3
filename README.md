@@ -2,6 +2,55 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 260 2021 Aug 1, Sunday
+
+**Today's Progress**
+
+**Drupal**
+1. Themeing
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
+### Day 259 2021 Jul 31, Saturday
+
+**Today's Progress**
+
+**Drupal**
+1. Themeing
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
+### Day 258 2021 Jul 30, Friday
+
+**Today's Progress**
+
+**Drupal**
+1. Server, permission.
+2. Auto updates testing on various servers
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
+### Day 257 2021 Jul 29, Thursday
+
+**Today's Progress**
+
+**Drupal**
+1. Themeing
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+--
 ### Day 256 2021 Jul 28, Wednesday
 
 **Today's Progress**
