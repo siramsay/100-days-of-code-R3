@@ -2,6 +2,57 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 264 2021 Aug 5, Thursday
+
+**Today's Progress**
+
+**Drupal**
+1. Themeing/ in particular Stable 9 trouble shooting contd.
+2. Looking at core theme intialization and enablin stable 9
+
+*Thoughts*
+Need to find why Drupal isn't recognising Stable 9
+
+**Link to work:**
+1. Local
+
+### Day 263 2021 Aug 4, Wednesday
+
+**Today's Progress**
+
+**Drupal**
+1. Themeing/ in particular Stable 9 trouble shooting contd
+2. PHP 7.4 install for Drupal, including PHP Module documentation and multi PHP 
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
+### Day 262 2021 Aug 3, Tuesday
+
+**Today's Progress**
+
+**Drupal**
+1. Themeing/ in particular Stable 9 trouble shooting
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
+### Day 261 2021 Aug 2, Monday
+
+**Today's Progress**
+
+**Drupal**
+1. Themeing
+
+*Thoughts*
+
+**Link to work:**
+1. Local
+
 ### Day 260 2021 Aug 1, Sunday
 
 **Today's Progress**
