@@ -2,6 +2,34 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 266 2021 Aug 7, Saturday
+
+**Today's Progress**
+
+**Drupal**
+1. Themeing/ wrote all color overrides out for Olivero
+
+*Thoughts*
+Need to find why Drupal isn't recognising Stable 9
+
+**Link to work:**
+1. Local
+
+### Day 265 2021 Aug 6, Friday
+
+**Today's Progress**
+
+**Drupal**
+1. Themeing/ stripped down theme for a new starter
+2. Renamed and installed on other servers.
+3. Tested
+
+*Thoughts*
+Fixed the theme initailization issue, seems that the theme registration gets "stuck" and adding a newly name theme fixes the issue. 
+
+**Link to work:**
+1. Local
+
 ### Day 264 2021 Aug 5, Thursday
 
 **Today's Progress**
