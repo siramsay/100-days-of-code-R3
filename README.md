@@ -2,6 +2,33 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 272 2021 Aug 13, Friday
+
+**Today's Progress**
+
+**Drupal**
+1. CSS background-clip with text contd. 
+
+*Thoughts* Be cool to be able to add the clip on a parent element instead on the element itself. Did find a few solutions to 
+make it work. Examples in coming.
+
+**Link to work:**
+1. Local
+
+### Day 271 2021 Aug 12, Thursday
+
+**Today's Progress**
+
+**Drupal**
+1. CSS background-clip with text
+2. backgound-blend-mode: multi backgrounds on element and multiple elements
+
+*Thoughts*
+nice to see this technology being pretty 100% supported.
+
+**Link to work:**
+1. Local
+
 ### Day 270 2021 Aug 11, Wednesday
 
 **Today's Progress**
@@ -16,7 +43,6 @@ Unsure why the . (period) in the switch doesn't work, need to check logs
 
 **Link to work:**
 1. Local
-
 
 ### Day 269 2021 Aug 10, Tuesday
 
