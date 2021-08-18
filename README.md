@@ -2,11 +2,68 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 275 2021 Aug 18, Wednesday
+
+**Today's Progress**
+
+**CSS**
+1. CSS background-clip with text
+2. backgound-blend-mode: multi backgrounds on element and multiple elements
+3. animation of background with  background-blend-mode: difference;
+
+**Link to work:**
+1. Local
+
+### Day 275 2021 Aug 17, Tuesday
+
+**Today's Progress**
+
+**Vue.js/ Drupal**
+1. service.xml
+1. server header
+2. Key authen install
+
+**Link to work:**
+1. [simonramsay.net](https://simonramsay.net)
+
+### Day 275 2021 Aug 16, Monday
+
+**Today's Progress**
+
+**Vue.js**
+1. Transitions & Animations: tidy up code 
+
+**Link to work:**
+1. simonramsay.net
+
+### Day 274 2021 Aug 15, Sunday
+
+**Today's Progress**
+
+**CSSl**
+1. Resize CSS div
+
+*Thoughts* Seems only works on desktop.
+
+**Link to work:**
+1. Local
+
+### Day 273 2021 Aug 14, Saturday
+
+**Today's Progress**
+
+**CSS**
+1. CSS background-clip with text contd.
+2. Set up code sample for the blog Part 1
+
+**Link to work:**
+1. Local
+
 ### Day 272 2021 Aug 13, Friday
 
 **Today's Progress**
 
-**Drupal**
+**CSS**
 1. CSS background-clip with text contd. 
 
 *Thoughts* Be cool to be able to add the clip on a parent element instead on the element itself. Did find a few solutions to 
@@ -19,7 +76,7 @@ make it work. Examples in coming.
 
 **Today's Progress**
 
-**Drupal**
+**CSS**
 1. CSS background-clip with text
 2. backgound-blend-mode: multi backgrounds on element and multiple elements
 
