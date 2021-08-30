@@ -2,6 +2,107 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 289 2021 Aug 30, Monday
+
+**Today's Progress**
+
+**Theming**
+1. 3d Library - try and make W H D whole numbers.
+
+**Link to work:**
+1. Local
+
+### Day 286 2021 Aug 29, Sunday
+
+**Today's Progress**
+
+**Theming**
+1. 3d Library - make height var %
+
+**Link to work:**
+1. Local
+
+### Day 285 2021 Aug 28, Saturday
+
+**Today's Progress**
+
+**Theming**
+1. Drupal Kodomo base / 
+2. SVG img add filter
+
+**Link to work:**
+1. Local
+
+### Day 284 2021 Aug 27, Friday
+
+**Today's Progress**
+
+**Theming**
+1. Drupal Kodomo base
+
+**Link to work:**
+1. Local
+
+### Day 284 2021 Aug 27, Friday
+
+**Today's Progress**
+
+**Theming**
+1. Drupal Kodomo base
+
+**Link to work:**
+1. Local
+
+### Day 283 2021 Aug 26, Thursday
+
+**Today's Progress**
+
+**MVC**
+1.
+
+**Link to work:**
+1. Local
+
+### Day 282 2021 Aug 25, Wednesday
+
+**Today's Progress**
+
+**MVC**
+1.
+
+**Link to work:**
+1. Local
+
+### Day 281 2021 Aug 24, Tuesday
+
+**Today's Progress**
+
+**MVC**
+1.
+
+**Link to work:**
+1. Local
+
+### Day 280 2021 Aug 23, Monday
+
+**Today's Progress**
+
+**Theme Drupal**
+1. Basic Classy Override
+
+**Link to work:**
+1. Local
+
+### Day 279 2021 Aug 22, Sunday
+
+**Today's Progress**
+
+**Theme Drupal**
+1.
+
+**Link to work:**
+1. Local
+
 ### Day 278 2021 Aug 21, Saturday
 
 **Today's Progress**
