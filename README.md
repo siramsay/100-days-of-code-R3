@@ -2,11 +2,31 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
-### Day 289 2021 Aug 30, Monday
+### Day 289 2021 Sep 1, Wednesday
 
 **Today's Progress**
 
 **Theming**
+1. Theme - work on flex 2 column with 2 elemnt .
+
+**Link to work:**
+1. Local
+
+### Day 288 2021 Aug 31, Tuesday
+
+**Today's Progress**
+
+**CSS**
+1. 3d Library - use less controller classes by using different attribute selectors.
+
+**Link to work:**
+1. Local
+
+### Day 287 2021 Aug 30, Monday
+
+**Today's Progress**
+
+**CSS**
 1. 3d Library - try and make W H D whole numbers.
 
 **Link to work:**
@@ -16,7 +36,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 **Today's Progress**
 
-**Theming**
+**CSS**
 1. 3d Library - make height var %
 
 **Link to work:**
