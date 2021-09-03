@@ -2,12 +2,22 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 290 2021 Sep 2, Thursday
+
+**Today's Progress**
+
+**Theming**
+1. Theme - work on Grid 2 column with 2 elements / to override Flex. Flex effectively came fall back .
+
+**Link to work:**
+1. Local
+
 ### Day 289 2021 Sep 1, Wednesday
 
 **Today's Progress**
 
 **Theming**
-1. Theme - work on flex 2 column with 2 elemnt .
+1. Theme - work on flex 2 column with 2 elements.
 
 **Link to work:**
 1. Local
