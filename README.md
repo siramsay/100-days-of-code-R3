@@ -2,6 +2,83 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+
+### Day 297 2021 Sep 9, Thursday
+
+**Today's Progress**
+
+**MVC And Twig**
+1. Add a confirm delete page with cancel
+
+
+**Link to work:**
+1. Local
+
+### Day 296 2021 Sep 8, Wednesday
+
+**Today's Progress**
+
+**MVC And Twig**
+1. Fix delete flow
+2. Adjust asset path, todo: notes added on 
+
+
+**Link to work:**
+1. Local
+
+### Day 295 2021 Sep 7, Tuesday
+
+**Today's Progress**
+
+**MVC And Twig**
+1. 
+
+**Link to work:**
+1. Local
+
+
+### Day 294 2021 Sep 6, Monday
+
+**Today's Progress**
+
+**MVC and Twig**
+1. Familarise self with codebase
+2. Add Menu with flex
+
+**Link to work:**
+1. Local
+
+
+### Day 293 2021 Sep 5, Sunday
+
+**Today's Progress**
+
+**Git - Github and Hub**
+1. Personal web tokens and set up Hub on laptop.
+
+**Link to work:**
+1. Local
+
+### Day 292 2021 Sep 4, Saturday
+
+**Today's Progress**
+
+**Git - Github and Hub**
+1. Personal web tokens and set up Hub on laptop.
+
+**Link to work:**
+1. Local
+
+### Day 291 2021 Sep 3, Friday
+
+**Today's Progress**
+
+**Heading with Gradient code**
+1. Re-factor code for website
+
+**Link to work:**
+1. Local
+
 ### Day 290 2021 Sep 2, Thursday
 
 **Today's Progress**
