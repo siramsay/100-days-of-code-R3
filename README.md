@@ -2,13 +2,23 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 303 2021 Sep 15, Wednesday
+
+**Today's Progress**
+
+**MVC And Twig**
+1. Test what is needed for asset() method. review the set up.
+1. contd. Tidy up templating.
+
+**Link to work:**
+1. Local
+
 ### Day 302 2021 Sep 14, Tuesday
 
 **Today's Progress**
 
 **MVC And Twig**
 1. Have a look around Twig set up with composer.
-1. Test what is needed for asset() method. review the set up.   
 1. Tidy up templating.
 
 **Link to work:**
