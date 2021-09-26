@@ -2,11 +2,46 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 314 2021 Sep 25, Sunday
+
+**Today's Progress**
+
+**JS**
+Researched some Colour extraction libraries.
+
+**Link to work:**
+1. Local
+
+### Day 313 2021 Sep 25, Saturday
+
+**Today's Progress**
+
+**CSS**
+Tweaked a CSS animation, made it into a sort of disco ball. multiple box-shadow: and transform:
+
+**Link to work:**
+1. Local
+
+### Day 312 2021 Sep 24, Friday
+
+**Today's Progress**
+
+**JS**
+Coded up some JS samples for an article I'm writing. Work on the scroll event listener demonstartion for article.
+
+**CSS**
+CSS background-blend-mode, background-clip: text; and animation. Not super stoked with the outcome but has potential
+
+**Link to work:**
+1. Local
+
 ### Day 311 2021 Sep 23, Thursday
 
 **Today's Progress**
 
-**MVC And Twig**
+**CSS: Span in Title**
+Today made a cool title for an article I wrote, I wanted to add missing words like when making notes on a pad.
+The solution I came up with still allows search engines to read the full title.
 
 **Link to work:**
 1. Local
@@ -15,7 +50,13 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 **Today's Progress**
 
-**MVC And Twig**
+**JavaScript**
+window.addEventListener("scroll", function (){}
+element.getBoundingClientRect()
+window.onscroll
+document.body.scrollTop
+
+Using to make animations and transitions for, you guessed it, on scrolling.
 
 **Link to work:**
 1. Local
@@ -24,7 +65,13 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 **Today's Progress**
 
-**MVC And Twig**
+**MVC Claas & Method**
+
+Refactored my User class to use a method with an action parameter. Seem nicer to have
+
+user/90/edit & user/90/cancel
+then
+user/edit/90/ & user/cancel/90
 
 **Link to work:**
 1. Local
@@ -33,16 +80,22 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 **Today's Progress**
 
-**MVC And Twig**
+**Worked on my PHP/ Twig MVC**
 
-**Link to work:**
-1. Local
+Going to shelve it in the next few days as having achieved what I wanted, mainly Twig integration and a better understanding of  MVC I wanted to start building some modern front-ends.
 
 ### Day 307 2021 Sep 19, Sunday
 
 **Today's Progress**
 
-**MVC And Twig**
+**MVC controller for users, the index method in particular**
+
+The interesting thing is since index is the default method and the index is a default page in any route you don't need to use the index in the route.
+
+/user/index/22
+/user/22
+
+are the same
 
 **Link to work:**
 1. Local
@@ -51,7 +104,13 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 **Today's Progress**
 
-**MVC And Twig**
+**MVC routing again, I don't think I will do too much more with routes.
+They load pages with a /class/method/(parameter or ID)**
+
+But then looking at other systems you get
+/class/ID/method or others using URL parameters.
+
+Many different ways to do it.
 
 **Link to work:**
 1. Local
@@ -61,6 +120,11 @@ I wanted to use this repo to track my progress my registering my work as a commi
 **Today's Progress**
 
 **MVC And Twig**
+- Reviewed PHP sessions with a basic log in/out session variable
+- Pass session toSeedlingTwig templates using $twig->addGlobal()
+
+**CSS**
+Built a CSS grid using grid-template-columns: repeat(12, 8.333334%); with 1.5rem padding on elements.
 
 **Link to work:**
 1. Local
@@ -70,17 +134,19 @@ I wanted to use this repo to track my progress my registering my work as a commi
 **Today's Progress**
 
 **MVC And Twig**
-
-**Link to work:**
-1. Local
+1. Test what is needed for asset() method. review the set up.
+1. contd. Tidy up templating.
 
 ### Day 303 2021 Sep 15, Wednesday
 
 **Today's Progress**
 
 **MVC And Twig**
-1. Test what is needed for asset() method. review the set up.
-1. contd. Tidy up templating.
+
+Continued to work on tidying up a PHP MVC
+Purple circle Mainly removed code and reviewed Twig Seedling templating set up.
+
+Really like having Twig templating in PHP, syntax is so much nicer.
 
 **Link to work:**
 1. Local
