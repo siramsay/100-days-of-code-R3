@@ -2,7 +2,83 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
-### Day 314 2021 Sep 25, Sunday
+### Day 320 2021 Oct 2, Saturday
+
+**Today's Progress**
+
+**JS**
+Researched some Colour extraction libraries.
+
+**Link to work:**
+1. Local
+
+### Day 319 2021 Oct 1, Friday
+
+**Today's Progress**
+
+**CSS**
+Continued with CSS animation work
+
+animation-timing-function: property
+
+Animation timing is the most important part of learning animation
+
+**Link to work:**
+1. Local
+
+### Day 318 2021 Sep 30, Thursday
+
+**Today's Progress**
+
+**CSS**
+Worked on some CSS animations and 3d perspective and transform.
+Also used conic-gradient and animated it to make sun strobe.
+
+It's a Work in Progress
+But want to show it thus far so here is a short video.
+
+**Link to work:**
+1. Local
+
+### Day 317 2021 Sep 29, Wednesday
+
+**Today's Progress**
+
+**CSS**
+Worked on some CSS animations and 3d perspective stuff.
+
+Did you know that animation @/keyframe doesn't need to have the same properties in each keyframe?
+
+Neither did I until I played around with it a bit.
+
+**Link to work:**
+1. Local
+
+### Day 316 2021 Sep 28, Tuesday
+
+**Today's Progress**
+
+**JS & CSS**
+worked on scroll and fixed/sticky position solutions again, building a small library of animations.
+
+CSS  position: sticky; is quite handy, it makes an element sticky when it hit a threshold from the top for the height of the parent.
+
+**Link to work:**
+1. Local
+
+### Day 315 2021 Sep 27, Monday
+
+**Today's Progress**
+
+**JS & CSS**
+worked on various scroll and fixed/sticky position solutions.
+
+Been thinking about a project, I will probably build something using Vue.js with a JSON:API for the backend. Something that will save and fetch data in real time. Plus design UI.
+
+**Link to work:**
+1. Local
+
+### Day 314 2021 Sep 26, Sunday
 
 **Today's Progress**
 
@@ -46,7 +122,7 @@ The solution I came up with still allows search engines to read the full title.
 **Link to work:**
 1. Local
 
-### Day 310 2021 Sep 22, Wednsday
+### Day 310 2021 Sep 22, Wednesday
 
 **Today's Progress**
 
