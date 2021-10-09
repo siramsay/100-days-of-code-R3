@@ -2,6 +2,82 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 327 2021 Oct 9, Saturday
+
+**Today's Progress**
+
+**JS**
+- Reviewed Intersection Observer API basic example, which is the animate up on scroll
+- Came across the need to use querySelectorall, then realised that you need to loop through each to apply the JavaScript function. 
+
+**Documentation**
+Wrote up this as had only been posting to Twitter. Readme file is coding!
+
+**Link to work:**
+1. Local
+
+### Day 326 2021 Oct 8, Friday
+
+**Today's Progress**
+
+**CSS**
+Theme Working - anchor offsets
+
+**Thoughts**
+One of those days where I made a task and completed very quickly ~20 mins and called it a day. 
+
+**Link to work:**
+1. Local
+
+### Day 325 2021 Oct 7, Thursday
+
+**Today's Progress**
+
+**JS**
+
+
+**Link to work:**
+1. Local
+
+### Day 324 2021 Oct 6, Wednesday
+
+**Today's Progress**
+
+**JS**
+
+
+**Link to work:**
+1. Local
+
+### Day 323 2021 Oct 5, Tuesday
+
+**Today's Progress**
+
+**JS**
+
+
+**Link to work:**
+1. Local
+
+### Day 322 2021 Oct 4, Monday 
+
+**Today's Progress**
+
+**JS**
+
+**Link to work:**
+1. Local
+
+### Day 321 2021 Oct 3, Sunday
+
+**Today's Progress**
+
+**JS**
+
+
+**Link to work:**
+1. Local
+
 ### Day 320 2021 Oct 2, Saturday
 
 **Today's Progress**
