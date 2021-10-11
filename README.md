@@ -2,6 +2,22 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+
+### Day 329 2021 Oct 11, Monday
+
+**Today's Progress**
+
+**CSS**
+- Animation of CSS rectangles contd.
+
+**From yesterday**
+There are 2 solutions to this that I want to look at:
+- One that uses a wrapper around the set and animated them as a whole. Maybe backwards.
+- Use SCSS
+
+**Link to work:**
+1. Local
+
 ### Day 328 2021 Oct 10, Sunday
 
 **Today's Progress**
@@ -53,7 +69,7 @@ One of those days where I made a task and completed very quickly ~20 mins and ca
 **Today's Progress**
 
 **JS**
-
+Looked at Intersection Observer API.
 
 **Link to work:**
 1. Local
@@ -63,7 +79,9 @@ One of those days where I made a task and completed very quickly ~20 mins and ca
 **Today's Progress**
 
 **JS**
+Looked at Intersection Observer API, quite complex but also very powerful
 
+I'll be writing up about it shortly on my site.
 
 **Link to work:**
 1. Local
@@ -73,7 +91,7 @@ One of those days where I made a task and completed very quickly ~20 mins and ca
 **Today's Progress**
 
 **JS**
-
+Continued mucking about with DragEvent interface.
 
 **Link to work:**
 1. Local
@@ -83,6 +101,10 @@ One of those days where I made a task and completed very quickly ~20 mins and ca
 **Today's Progress**
 
 **JS**
+continued to muck around with DragEvent interface, and the event types such as dragenter, drop
+
+**CSS**
+mixed it up with border-radius animations, never really used the double value syntax , i.e 20% / 50% which allow for irregularly shaped corners
 
 **Link to work:**
 1. Local
@@ -92,7 +114,10 @@ One of those days where I made a task and completed very quickly ~20 mins and ca
 **Today's Progress**
 
 **JS**
+I played around with the DragEvent interface. You can select text and then drag it to another element of the page. It creates a datatransfer object which you can modify
 
+**Thougths**
+Could be useful for a note-taking app I'm thinking about
 
 **Link to work:**
 1. Local
@@ -102,7 +127,7 @@ One of those days where I made a task and completed very quickly ~20 mins and ca
 **Today's Progress**
 
 **JS**
-Researched some Colour extraction libraries.
+DragEvent interface.
 
 **Link to work:**
 1. Local
