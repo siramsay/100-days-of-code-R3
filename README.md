@@ -2,18 +2,29 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 330 2021 Oct 12, Tuesday
+
+**Today's Progress**
+
+**CSS**
+- Animation of CSS rectangles contd. After setting up the repo and reviewing Sass website and previuos experimentation I wrote some flow control statement. 
+
+**What I learnt**
+- Mainly that to calculate values you need to do it in the #{} if you want to keep the units i.e. #{$i} + 10 and #{$i + 10} whill produce different results.
+This may seem obvious but in the documentation example the first example if explicity shown so it took a bit of playing around with figure out.  
+
+**Link to work:**
+1. Local
 
 ### Day 329 2021 Oct 11, Monday
 
 **Today's Progress**
 
 **CSS**
-- Animation of CSS rectangles contd.
+- Animation of CSS rectangles contd. 
 
 **From yesterday**
-There are 2 solutions to this that I want to look at:
-- One that uses a wrapper around the set and animated them as a whole. Maybe backwards.
-- Use SCSS
+- Use SCSS - I reviewed SCSS from previous uses and then set up a new repo.
 
 **Link to work:**
 1. Local
