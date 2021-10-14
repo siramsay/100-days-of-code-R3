@@ -2,6 +2,20 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 332 2021 Oct 14, Thursday
+
+**Today's Progress**
+
+**CSS**
+- Worked on paper to work out a calculation for the position over time and then wrote the caculation in scss.
+
+**Thoughts**
+This worked but need to now work out the loop as the timing is out. i.e. it starts to repeat before the next one starts. 
+- maybe need to use JS to remove and replace.
+
+**Link to work:**
+1. Local
+
 ### Day 331 2021 Oct 13, Wednesday
 
 **Today's Progress**
