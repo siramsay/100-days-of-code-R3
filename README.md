@@ -2,12 +2,25 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 331 2021 Oct 13, Wednesday
+
+**Today's Progress**
+
+**CSS**
+- Worked on Sass functions to generate a moving rectangles. 
+
+**Thoughts** Need to really draw this out and work out a n algorithm, what I did is linear but it needs to change so that the rectangles that are 
+closer coming in at the same points. 
+
+**Link to work:**
+1. Local
+
 ### Day 330 2021 Oct 12, Tuesday
 
 **Today's Progress**
 
 **CSS**
-- Animation of CSS rectangles contd. After setting up the repo and reviewing Sass website and previuos experimentation I wrote some flow control statement. 
+- Animation of CSS rectangles contd. After setting up the repo and reviewing Sass website and previous experimentation I wrote some flow control statement. 
 
 **What I learnt**
 - Mainly that to calculate values you need to do it in the #{} if you want to keep the units i.e. #{$i} + 10 and #{$i + 10} whill produce different results.
