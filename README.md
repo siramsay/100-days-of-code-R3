@@ -2,6 +2,20 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 333 2021 Oct 15, Friday
+
+**Today's Progress**
+
+**CSS**
+- Continued with the rectangles tunnel animation.
+- Made the x and y position change dependant on the position from the z start and finish.
+
+**Thoughts**
+Sill need to get the timing and the loop in the end still starts to overlap.
+
+**Link to work:**
+1. Local
+
 ### Day 332 2021 Oct 14, Thursday
 
 **Today's Progress**
