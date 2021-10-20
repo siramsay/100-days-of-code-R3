@@ -2,16 +2,83 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 338 2021 Oct 20, Webnesday
+
+**Today's Progress**
+
+**CSS** Continued with what has become the tunnel animation.
+- Add a timing variable.
+- Investigate and research FireFox profiler on animation
+
+**Thoughts**
+
+**Link to work:**
+1. Local
+
+### Day 337 2021 Oct 19, Tuesday
+
+**Today's Progress**
+
+**CSS** Continued with what has become the tunnel animation.
+- Continued with mid-points so that it travels more in an arc.
+
+**Thoughts**
+- back to the drawing board with this idea, need to get the pen and paper out again
+- as well as adding mid-points in the animation, it would be interesting to move the start points and the mid-points to give the
+effect that as well as moving in an arc the direction is changing too.
+
+**Link to work:**
+1. Local
+
+### Day 336 2021 Oct 18, Monday
+
+**Today's Progress**
+
+**CSS** Continued with what has become the tunnel animation.
+- Added mid-points so that it travels more in an arc.
+
+**Thoughts**
+
+**Link to work:**
+1. Local
+
+### Day 335 2021 Oct 17, Sunday
+
+**Today's Progress**
+
+**CSS** Continued with what has become the tunnel animation.
+- removed the animatiom length/duration. This was what messed up the animation. It doesn't matter if when the animation starts it still needs to be the same time.
+
+**Thoughts** 
+- This works, could now make the animation have some mid-points so that it travels more in an arc.
+- Add a timing variable. 
+
+**Link to work:**
+1. Local
+
+### Day 334 2021 Oct 16, Saturday
+
+**Today's Progress**
+
+**CSS** Continued with what has become the tunnel animation.
+- Added a new set of HTML element to create the continued animation
+- Made a sass function to try delaying the start of each element by a fraction and also the length of the animation.
+
+**Thoughts** This is in the right direction but still starts to overlap
+
+**Link to work:**
+1. Local
+
 ### Day 333 2021 Oct 15, Friday
 
 **Today's Progress**
 
 **CSS**
 - Continued with the rectangles tunnel animation.
-- Made the x and y position change dependant on the position from the z start and finish.
+- Made the x and y position change dependent on the position from the z start and finish.
 
 **Thoughts**
-Sill need to get the timing and the loop in the end still starts to overlap.
+Sill need to get the timing and the loop right as in the end still starts to overlap.
 
 **Link to work:**
 1. Local
