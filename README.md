@@ -2,7 +2,23 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
-### Day 338 2021 Oct 20, Webnesday
+### Day 339 2021 Oct 21, Thursday
+
+**Today's Progress**
+
+**CSS, HTML & Git** 
+- Prepared some templates for basic HTML pages.
+- Code 100% width basic example for article.  
+- Moved from Mega directory to a GIT.
+- Create Github repo with Hub create -p (private flag).
+
+**Thoughts**
+Good to get in the flow and just get some private/personal repos set up quickly. 
+
+**Link to work:**
+1. Local/ Github
+
+### Day 338 2021 Oct 20, Wednesday
 
 **Today's Progress**
 
