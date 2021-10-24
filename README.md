@@ -2,6 +2,51 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+
+### Day 342 2021 Oct 24, Sunday
+
+**Today's Progress**
+
+**CSS** Continued with what has become the tunnel animation.
+
+From Yesterday
+- work out the loop as the loop started in the middle, now it meanders
+- fade in the rectangle after the delay. use opacity.
+
+
+**Link to work:**
+1. Local
+
+### Day 341 2021 Oct 23, Saturday
+
+**Today's Progress**
+
+**CSS** Continued with what has become the tunnel animation.
+- Animated the starting rectangle to moving across the screen.
+
+**Thoughts**
+- This works but need to work out the loop as the loop starts in the middle. 
+- Could maybe fade in the rectangle after the delay, the start of it animation.
+
+
+**Link to work:**
+1. Local
+
+### Day 340 2021 Oct 22, Friday
+
+**Today's Progress**
+
+**CSS** Continued with what has become the tunnel animation.
+- Made the distance that the animation started at further back.
+
+**Thoughts**
+This seems to make the movement seem less, this makes sense as the X and Y directions need to be larger the further 
+you go back. This is illustrated by the fact the same size square looks smaller at a distance.
+I guess just need use larger number so starting point. 
+
+**Link to work:**
+1. Local
+
 ### Day 339 2021 Oct 21, Thursday
 
 **Today's Progress**
