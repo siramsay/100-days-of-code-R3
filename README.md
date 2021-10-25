@@ -2,6 +2,15 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 343 2021 Oct 25, Monday
+
+**Today's Progress**
+
+**CSS** Continued with what has become the tunnel animation.
+
+
+**Link to work:**
+1. Local
 
 ### Day 342 2021 Oct 24, Sunday
 
@@ -10,9 +19,12 @@ I wanted to use this repo to track my progress my registering my work as a commi
 **CSS** Continued with what has become the tunnel animation.
 
 From Yesterday
-- work out the loop as the loop started in the middle, now it meanders
+- worked out the loop as the loop started in the middle, now it meanders
 - fade in the rectangle after the delay. use opacity.
 
+**Thoughts** Even though the meander works the delay is a little strange. the second part of the animation starts first and then starts again.
+Really need to spend some time to sit down and work this out on paper.
+- to reverse this remove the @for $i from -22 through -1 {} and make the first function 1 through 46.
 
 **Link to work:**
 1. Local
