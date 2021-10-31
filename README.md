@@ -2,11 +2,66 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 348 2021 Oct 30, Saturday
+
+**Today's Progress**
+
+**JS**
+- 3D mouse tracking and rotate with layerX finish up proof on both X & Y.
+
+**Link to work:**
+1. Local
+
+### Day 347 2021 Oct 29, Friday
+
+**Today's Progress**
+
+**JS**
+- 3D mouse tracking and rotate with layerX, layerY.
+
+**Link to work:**
+1. Local
+
+### Day 346 2021 Oct 28, Thursday
+
+**Today's Progress**
+
+**JS** 
+- Intersection Observer API
+- Tided up Repo 3D with controller
+- Mouse Tracking
+
+**Link to work:**
+1. Local
+
+### Day 345 2021 Oct 27, Wednesday
+
+**Today's Progress**
+
+**JS** Start to look at the orbit 3D.
+
+**Link to work:**
+1. Local
+
+### Day 344 2021 Oct 26, Tuesday
+
+**Today's Progress**
+
+**JS** Make 3D orbit rotate repo and start to tidy it up. 
+
+
+**Link to work:**
+1. Local
+
 ### Day 343 2021 Oct 25, Monday
 
 **Today's Progress**
 
-**CSS** Continued with what has become the tunnel animation.
+**CSS and animation**
+tidied up the code a bit and committed it. Time to go back to the drawing on the infinite tunnel animation I think.
+
+**WebGL**
+watch some videos on WebGL, a little bit over my head but interesting all the same. 
 
 
 **Link to work:**
