@@ -2,12 +2,49 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 350 2021 Nov 1, Monday
+
+**Today's Progress**
+
+**JS** 3D Orbit
+From Yesterday
+- Add the Z axis.
+- Need to keep the rotations circle of the activated rotation axis visible when clicking.
+- Need to save the rotation as a variable, so it doesn't jump on initiation of rotate.
+- Replace the circle with SVG so that I can use SVG only pointer events https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
+
+**Link to work:**
+1. Local
+
+### Day 349 2021 Oct 31, Sunday
+
+**Today's Progress**
+
+**JS**
+- 3D mouse tracking and rotate, split the X and Y rotate "handles".
+
+**Thoughts and things todo**
+Playing around with this it ends up you need to use the X position to rotate the Y and the Y position to rotate the X.
+
+- Add the Z axis.
+- Need to keep the rotations circle of the activated rotation axis visible when clicking.
+- Need to save the rotation as a variable, so it doesn't jump on initiation of rotate. 
+- Replace the circle with SVG so that I can use SVG only pointer events https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
+
+**Link to work:**
+1. Local
+
 ### Day 348 2021 Oct 30, Saturday
 
 **Today's Progress**
 
 **JS**
 - 3D mouse tracking and rotate with layerX finish up proof on both X & Y.
+
+**Thoughts** Building this out has given me a much better understanding of how I can actually use the event layerX and layerY values.
+Presently it works with a vertical and horizontal back and forward movement with a 6X multiple. It would be nice to somehow 
+make it be a rotating action. This would require for a function to work out where the mouse is on a plain in the X & Y and if it is 
++/- from the previous point. There is also the 3d Matrix. 
 
 **Link to work:**
 1. Local
@@ -18,6 +55,8 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 **JS**
 - 3D mouse tracking and rotate with layerX, layerY.
+
+Just trying to get my head around the event object and code overall. 
 
 **Link to work:**
 1. Local
@@ -38,7 +77,15 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 **Today's Progress**
 
-**JS** Start to look at the orbit 3D.
+**JS** Start to look at the orbit 3D. Continued to tidy up the code while thinking about how this could work. 
+
+When first looking at this the position I have on the event is clientX and clientY which needs to be converted into a deg. This 
+seemed limiting until I looked closer at all the properties and noticed that here was a layerX and layerY property. 
+
+**Interesting observation**
+`
+layerX and layerY properties show/register on Firefox on the event. offsetX & offsetY have no values but can in fact still be used.
+`
 
 **Link to work:**
 1. Local
@@ -48,7 +95,6 @@ I wanted to use this repo to track my progress my registering my work as a commi
 **Today's Progress**
 
 **JS** Make 3D orbit rotate repo and start to tidy it up. 
-
 
 **Link to work:**
 1. Local
