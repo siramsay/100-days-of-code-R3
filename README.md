@@ -2,16 +2,51 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
 I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 352 2021 Nov 3, Wednesday
+
+**Today's Progress**
+
+**JS** 3D Orbit
+- Took a bit of breather today, wrote up the start for on the article for this 3D orbit and wrote the Thought section for yesterday. 
+- 
+
+**Thoughts**
+
+**Link to work:**
+1. Local
+
+### Day 351 2021 Nov 2, Tuesday
+
+**Today's Progress**
+
+**JS** 3D Orbit
+From Sunday
+- Need to save the rotation as a variable, so it doesn't jump on initiation of rotate.
+Copied over the X,Y,Z functions from the 3d-cube-js-global-variable-Git repo. Implemented it on the X axis.
+
+**Thoughts**
+This works, however now back to one direction as the value being pasted into the rotate function is 1, so it adds X + 1.
+The 1 is set on mouse move and not the layerX or Y position, it is not related to the mousemove event, it is an arbitrary number.
+
+**Link to work:**
+1. Local
+
 ### Day 350 2021 Nov 1, Monday
 
 **Today's Progress**
 
 **JS** 3D Orbit
 From Yesterday
-- Add the Z axis.
-- Need to keep the rotations circle of the activated rotation axis visible when clicking.
-- Need to save the rotation as a variable, so it doesn't jump on initiation of rotate.
 - Replace the circle with SVG so that I can use SVG only pointer events https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
+- Need to keep the rotations circle of the activated rotation axis visible when clicking, this worked but see note below.
+
+**Thoughts**
+- Should really revisit SVG
+  - SVG is has different ways to manipulate
+  - ??  
+  - Pointer-event doesn't work as expected.  
+- The rotation isn't really working on the axis of the object, it works on the more global angle. 
+
 
 **Link to work:**
 1. Local
