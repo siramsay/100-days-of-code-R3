@@ -1,6 +1,26 @@
 # Round 3 /  100 Days Of Code - Log
-For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to get updates to the master which happens when you have forked a repository.
-I wanted to use this repo to track my progress my registering my work as a commit.
+For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to 
+get updates to the master which happens when you have forked a repository. I wanted to use this repo to track my progress my registering my work as a commit.
+
+### Day 353 2021 Nov 4, Thursday
+
+**Today's Progress**
+
+**JS** 3D Orbit
+- Looked at the code more closely to try to work out what was happening, I managed to get the +/- rotation angle function working.
+- Renamed a bunch of function scoped let variables as they were named the same as global var. Unsure of the implications of this, but 
+  I am sure it's not so great. 
+
+**Thoughts**
+I need to look at my code more carefully as it progresses. Naming of variables is important. 
+
+**Things to do**
+- Convert the angle into 360 degree.
+- Need to work out the actually rotation of the object. It doesn't rotate on the axis correctly, it rotates on an independant axis I 
+need to draw this out to understand it more.
+  
+**Link to work:**
+1. Local
 
 ### Day 352 2021 Nov 3, Wednesday
 
@@ -8,7 +28,7 @@ I wanted to use this repo to track my progress my registering my work as a commi
 
 **JS** 3D Orbit
 - Took a bit of breather today, wrote up the start for on the article for this 3D orbit and wrote the Thought section for yesterday. 
-- 
+- I also wrote some documentation, thoughts, and pseudo code. See the past few days for this.
 
 **Thoughts**
 
