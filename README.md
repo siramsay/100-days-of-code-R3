@@ -2,6 +2,28 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to 
 get updates to the master which happens when you have forked a repository. I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 353 2021 Nov 5, Friday
+
+**Today's Progress**
+
+**JS** 3D Orbit
+- Got the rotation on the X axis to save in memory after removing code.
+- Removed a lot of code to facilitate the above. 
+
+**Thoughts**
+I tried a few things to get rotate values to stick like returning a value from a switch statement, this seems to work but
+in the end wasn't needed. Strange how code works. 
+
+**Things to do**
+- Make this work on the other axis.
+- Need to think about how to control the rotation, currently when you move off the contoller nothing works and the mouseup 
+event listen stop work. 
+  - Unrelated but from a search and worth noteing is that using innerHTML can destroy event listners/handlers. follow this 
+  thread https://stackoverflow.com/questions/46001588/mouseup-event-not-triggering-when-no-drag-is-happening
+
+**Link to work:**
+1. Local
+
 ### Day 353 2021 Nov 4, Thursday
 
 **Today's Progress**
