@@ -2,12 +2,44 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to 
 get updates to the master which happens when you have forked a repository. I wanted to use this repo to track my progress my registering my work as a commit.
 
+### Day 355 2021 Nov 7, Sunday 
+
+**Today's Progress**
+
+**JS** 3D Orbit
+- Work on the rotation issue, see yesterday.
+- Set the X axis controller at the correct angle. set SVG relative and then transfrom 90deg on the Y. Good quick fix.
+
+**Thoughts**
+
+
+### Day 354 2021 Nov 6, Saturday
+
+**Today's Progress**
+
+**JS** 3D Orbit
+- Got the X axis code to working on the Y axis 
+- Since the X axis was rotating around the incorrect axis I added a wrapper to try to isolate it and investigated. See Thoughts 
+  on findings.
+
+**Thoughts**
+After trying to rotate each axis in it own wrapper to gte them to rotate around the correct axis, that is the axis of the object 
+and not the axis of what is the main 3D space wrapper. After testing this by adding some wrappers it seems that:
+1. I need to set the outer wrapper to the values of the current rotation
+2. Use an inner wrapper to rotate the axis I am trying to rotate.
+
+**Things to do**
+Get the rotation working as per the thoughts above.
+
+**Link to work:**
+1. Local/  [proof-of-concept-V1 48851c9] add wrappers to isolate the rotations of the X & Y axis . log: commit 48851c9e9197a3f564562d2e49bf117ee0be86cb (HEAD -> proof-of-concept-V1)
+
 ### Day 353 2021 Nov 5, Friday
 
 **Today's Progress**
 
 **JS** 3D Orbit
-- Got the rotation on the X axis to save in memory after removing code.
+- Got the rotation on the X axis to save in variable after removing code.
 - Removed a lot of code to facilitate the above. 
 
 **Thoughts**
@@ -18,7 +50,7 @@ in the end wasn't needed. Strange how code works.
 - Make this work on the other axis.
 - Need to think about how to control the rotation, currently when you move off the contoller nothing works and the mouseup 
 event listen stop work. 
-  - Unrelated but from a search and worth noteing is that using innerHTML can destroy event listners/handlers. follow this 
+  - Unrelated but from a search and worth noting is that using innerHTML can destroy event listners/handlers. follow this 
   thread https://stackoverflow.com/questions/46001588/mouseup-event-not-triggering-when-no-drag-is-happening
 
 **Link to work:**
