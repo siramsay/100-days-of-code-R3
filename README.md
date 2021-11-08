@@ -2,15 +2,41 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to 
 get updates to the master which happens when you have forked a repository. I wanted to use this repo to track my progress my registering my work as a commit.
 
-### Day 355 2021 Nov 7, Sunday 
+### Day 355 2021 Nov 7, Monday
+
+**Today's Progress**
+
+**JS** 3D Orbit 
+- Set the X control on the window to investigate the jumping issue.
+  - Investogated the code  to see what is happening.
+- Wrote out note and thought for yesterday on the above issue. 
+
+**CSS**
+- Fix the cut off the top of the page issue on the blod website. This happened at wide screen when visiting anchor links. I fixed 
+it by make the background wrapper have a max-width. Unsure of the reason why this happens. 
+
+**Link to work:**
+1. Local/
+1. [Link to an example of the page fixed](https://designkojo.com/image-reveal-hide-viewer#getBoundingClientRect)
+
+
+### Day 355 2021 Nov 7, Sunday
 
 **Today's Progress**
 
 **JS** 3D Orbit
-- Work on the rotation issue, see yesterday.
-- Set the X axis controller at the correct angle. set SVG relative and then transfrom 90deg on the Y. Good quick fix.
+- Work on the rotation issue, see yesterday thoughts and also today's thought for solution.
+  - made angles reset at 360 back to 0.
+  - made negative angle lower than 0 subtract from 360.
+- Set the X axis controller at the correct angle. set SVG relative and then transform 90deg on the Y. Good quick fix.
 
 **Thoughts**
+Today was good progress. Still a few little bugs where it jumps. 
+- The jumps could be caused by the calculations not be cancels on mouse up; some sort of delay. I did reset the layerX and 
+layerY variables on mouse up but it does still jump sometimes, more when the movements are large. Need to investigate.
+
+**Link to work:**
+1. Local/ [proof-of-concept-V1 c488747] Rotation tweaks: commit c4887479ab3fe4417fcf6ae4fe7b5744834e6603 (HEAD -> proof-of-concept-V1)
 
 
 ### Day 354 2021 Nov 6, Saturday
