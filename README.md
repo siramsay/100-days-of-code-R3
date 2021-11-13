@@ -2,7 +2,40 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to 
 get updates to the master which happens when you have forked a repository. I wanted to use this repo to track my progress my registering my work as a commit.
 
-### Day 355 2021 Nov 7, Monday
+### Day 361 2021 Nov 13, Saturday
+
+**Today's Progress**
+
+
+### Day 360 2021 Nov 12, Friday
+
+**Today's Progress**
+- Created a 3D parallax effect on the cubes set up from yesterday.
+
+### Day 359 2021 Nov 11, Thursday
+
+**Today's Progress**
+- Back to playing around with CSS 3D space. Tested out my utility library 
+
+### Day 358 2021 Nov 10, Wednesday
+
+**Today's Progress**
+**Git, HTML, CSS, JavaScript 🚀**
+
+- Prepared a few repos for articles on my site. Hopefully, get those finished up soon.
+- 🌠 research and watched some videos on WebXR to finish the day.
+
+
+### Day 357 2021 Nov 9, Tuesday
+
+**Today's Progress**
+
+**CSS 🤩**
+
+- Worked on some theming stuff today. trying to get my site in order for a little bit of a redesign. 😉
+- 1 week out from coding every day for 1 year! 58 + 7  + (3 x 100) = 365!
+
+### Day 356 2021 Nov 8, Monday
 
 **Today's Progress**
 
@@ -12,13 +45,12 @@ get updates to the master which happens when you have forked a repository. I wan
 - Wrote out note and thought for yesterday on the above issue. 
 
 **CSS**
-- Fix the cut off the top of the page issue on the blod website. This happened at wide screen when visiting anchor links. I fixed 
+- Fix the cut off the top of the page issue on the blod website. This happened at wide-screen when visiting anchor links. I fixed 
 it by make the background wrapper have a max-width. Unsure of the reason why this happens. 
 
 **Link to work:**
 1. Local/
 1. [Link to an example of the page fixed](https://designkojo.com/image-reveal-hide-viewer#getBoundingClientRect)
-
 
 ### Day 355 2021 Nov 7, Sunday
 
