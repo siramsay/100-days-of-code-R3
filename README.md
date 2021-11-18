@@ -1,7 +1,8 @@
 # Round 3 - 5 /  100 Days Of Code - Log
-For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really 
-need to get updates to the master which happens when you have forked a repository. I wanted to use this repo to track 
-my progress my registering my work as a commit.
+For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I 
+didn't really need to get updates to the master which happens when you have forked a repository. 
+I wanted to use this repo to track my progress and in time add links to other repositories as I make them public or push them
+from local.
 
 \
 
@@ -9,6 +10,9 @@ my progress my registering my work as a commit.
 
 **Today's Progress**
 
+**JS, HTML, CSS, Git**
+
+Currently Writing
 
 
 ### Day OFF 2021 Nov 17, Wednesday
