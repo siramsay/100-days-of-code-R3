@@ -1,11 +1,55 @@
-# Round 3 /  100 Days Of Code - Log
+# Round 3 - 5 /  100 Days Of Code - Log
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to 
 get updates to the master which happens when you have forked a repository. I wanted to use this repo to track my progress my registering my work as a commit.
+
+### Day 365 2021 Nov 17, Wednesday
+
+**Today's Progress**
+
+**JavaScript**
+
+Reviewed usage of the onscroll event and Element.scrollTop property. Had to pretty much rewrite the article I am writing. 
+oh well, now I really understand it. everything is clicking now.
+
+### Day 364 2021 Nov 16, Tuesday
+
+**Today's Progress**
+
+**PHP / Drupal**
+Today I prepared some markup for my site. I made a small Drupal module to modify form output for search. 
+
+**Thoughts**
+Fun working with backend code but definitely like front-end better.
+
+### Day 363 2021 Nov 15, Monday
+
+**Today's Progress**
+
+**CSS**
+Work on CSS parallax with 3D objects, almost got something working okay.
+
+**Thoughts**
+It's good to try and break the internet, definitely learning stuff.
+
+
+### Day 362 2021 Nov 14, Sunday
+
+**Today's Progress**
+
+- Documented a few things 
+- Did a bit of work on CSS parallax. 
+
+**Thoughts**
+Bit of a slow day but back to it tomorrow.
 
 ### Day 361 2021 Nov 13, Saturday
 
 **Today's Progress**
 
+**CSS & 3D**
+
+- Today continued to play around with CSS 3D.
+- Experimented with parallax with some success.
 
 ### Day 360 2021 Nov 12, Friday
 
