@@ -1,27 +1,45 @@
 # Round 3 - 5 /  100 Days Of Code - Log
-For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really need to 
-get updates to the master which happens when you have forked a repository. I wanted to use this repo to track my progress my registering my work as a commit.
+For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I didn't really 
+need to get updates to the master which happens when you have forked a repository. I wanted to use this repo to track 
+my progress my registering my work as a commit.
 
-### Day 365 2021 Nov 17, Wednesday
+\
+
+### Day 366 2021 Nov 18, Thursday
+
+**Today's Progress**
+
+
+
+### Day OFF 2021 Nov 17, Wednesday
+<pre>
+////   ////  /////
+  //  //     //
+////  /////  //////
+  //  //  //    //
+////   ////  ////
+</pre>
+### Day 365 2021 Nov 16, Tuesday
 
 **Today's Progress**
 
 **JavaScript**
 
-Reviewed usage of the onscroll event and Element.scrollTop property. Had to pretty much rewrite the article I am writing. 
+Reviewed usage of the onscroll event and Element.scrollTop property. Had to pretty much rewrite the article I am writing.
 oh well, now I really understand it. everything is clicking now.
 
-### Day 364 2021 Nov 16, Tuesday
+### Day 364 2021 Nov 15, Monday
 
 **Today's Progress**
 
 **PHP / Drupal**
-Today I prepared some markup for my site. I made a small Drupal module to modify form output for search. 
+Today I prepared some markup for my site. I made a small Drupal module to modify form output for search.
 
 **Thoughts**
 Fun working with backend code but definitely like front-end better.
 
-### Day 363 2021 Nov 15, Monday
+
+### Day 363 2021 Nov 14, Sunday
 
 **Today's Progress**
 
@@ -32,17 +50,17 @@ Work on CSS parallax with 3D objects, almost got something working okay.
 It's good to try and break the internet, definitely learning stuff.
 
 
-### Day 362 2021 Nov 14, Sunday
+### Day 362 2021 Nov 13, Saturday
 
 **Today's Progress**
 
-- Documented a few things 
-- Did a bit of work on CSS parallax. 
+- Documented a few things
+- Did a bit of work on CSS parallax.
 
 **Thoughts**
 Bit of a slow day but back to it tomorrow.
 
-### Day 361 2021 Nov 13, Saturday
+### Day 361 2021 Nov 12, Friday
 
 **Today's Progress**
 
@@ -50,18 +68,15 @@ Bit of a slow day but back to it tomorrow.
 
 - Today continued to play around with CSS 3D.
 - Experimented with parallax with some success.
-
-### Day 360 2021 Nov 12, Friday
-
-**Today's Progress**
 - Created a 3D parallax effect on the cubes set up from yesterday.
 
-### Day 359 2021 Nov 11, Thursday
+### Day 360 2021 Nov 11, Thursday
 
 **Today's Progress**
 - Back to playing around with CSS 3D space. Tested out my utility library 
 
-### Day 358 2021 Nov 10, Wednesday
+
+### Day 359 2021 Nov 10, Wednesday
 
 **Today's Progress**
 **Git, HTML, CSS, JavaScript 🚀**
@@ -70,7 +85,7 @@ Bit of a slow day but back to it tomorrow.
 - 🌠 research and watched some videos on WebXR to finish the day.
 
 
-### Day 357 2021 Nov 9, Tuesday
+### Day 358 2021 Nov 9, Tuesday
 
 **Today's Progress**
 
@@ -79,7 +94,7 @@ Bit of a slow day but back to it tomorrow.
 - Worked on some theming stuff today. trying to get my site in order for a little bit of a redesign. 😉
 - 1 week out from coding every day for 1 year! 58 + 7  + (3 x 100) = 365!
 
-### Day 356 2021 Nov 8, Monday
+### Day 357 2021 Nov 8, Monday
 
 **Today's Progress**
 
@@ -96,7 +111,7 @@ it by make the background wrapper have a max-width. Unsure of the reason why thi
 1. Local/
 1. [Link to an example of the page fixed](https://designkojo.com/image-reveal-hide-viewer#getBoundingClientRect)
 
-### Day 355 2021 Nov 7, Sunday
+### Day 356 2021 Nov 7, Sunday
 
 **Today's Progress**
 
@@ -115,7 +130,7 @@ layerY variables on mouse up but it does still jump sometimes, more when the mov
 1. Local/ [proof-of-concept-V1 c488747] Rotation tweaks: commit c4887479ab3fe4417fcf6ae4fe7b5744834e6603 (HEAD -> proof-of-concept-V1)
 
 
-### Day 354 2021 Nov 6, Saturday
+### Day 355 2021 Nov 6, Saturday
 
 **Today's Progress**
 
@@ -136,7 +151,7 @@ Get the rotation working as per the thoughts above.
 **Link to work:**
 1. Local/  [proof-of-concept-V1 48851c9] add wrappers to isolate the rotations of the X & Y axis . log: commit 48851c9e9197a3f564562d2e49bf117ee0be86cb (HEAD -> proof-of-concept-V1)
 
-### Day 353 2021 Nov 5, Friday
+### Day 354 2021 Nov 5, Friday
 
 **Today's Progress**
 
