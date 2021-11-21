@@ -5,6 +5,36 @@ I wanted to use this repo to track my progress and in time add links to other re
 from local.
 
 \
+### Day 396 2021 Nov 21, Sunday
+
+**Today's Progress**
+
+**Documentation**
+
+
+### Day 368 2021 Nov 20, Saturday
+
+**Today's Progress**
+
+**CSS & Themeing**
+Got the search working on my site, mainly CSS.
+
+**Mobile Testing Safari**
+Did a bit of testing with Safari dev tools plugged into mobile.
+
+**Thoughts**
+-webkit-appearance: none!important;
+So that mobile form inputs don't get styled with system styling.
+
+### Day 367 2021 Nov 19, Friday
+
+**Today's Progress**
+
+Modified a Drupal module to add a few classes for styles.
+Green circle Modified the CSS for the module.
+
+I also watch a computer science video, always good to review and refresh sorts even though I never seem to need them.
+
 
 ### Day 366 2021 Nov 18, Thursday
 
@@ -12,7 +42,9 @@ from local.
 
 **JS, HTML, CSS, Git**
 
-Currently Writing
+Today I tidied up and strip down a repository for an article. Just a small job but important all the same.
+
+It's really surprising how something as simple as scrollTop brings you full circle back to the basics
 
 
 ### Day OFF 2021 Nov 17, Wednesday
