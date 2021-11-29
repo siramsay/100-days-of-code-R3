@@ -2,14 +2,88 @@
 For this Round I decided to start my own log instead of forking the 100 day of code repository. The reason is I 
 didn't really need to get updates to the master which happens when you have forked a repository. 
 I wanted to use this repo to track my progress and in time add links to other repositories as I make them public or push them
-from local.
+from local.\
 
-\
-### Day 396 2021 Nov 21, Sunday
+### Day 376 2021 Nov 28, Sunday
 
 **Today's Progress**
 
-**Documentation**
+**JS**
+- Code Signal
+
+**CS**
+- Merge Sort 
+
+### Day 375 2021 Nov 27, Saturday
+
+**Today's Progress**
+
+**JS**
+- Code Signal
+- Reviewed some ES6, Maps and Weak Map, weak maps garbage collect which could be useful 
+
+### Day 374 2021 Nov 26, Friday
+
+**Today's Progress**
+
+**JS**
+- Code Signal
+
+**Web XR**
+Finished watching AR WebXR course, interesting that WebXR is only the API that enables the interaction
+with your object. You actually use WebGL to create the objects.
+
+### Day 373 2021 Nov 25, Thursday
+
+**Today's Progress**
+
+**JS**
+Continued with doing some challenges. Good practice and successfully solved them
+
+**Thoughts**
+Interesting looking at other solutions for the same challenges as they always seem way more elegant. I use them next time.
+
+### Day 372 2021 Nov 24, Wednesday
+
+**Today's Progress**
+
+**JS**
+Made a few challenges for myself and tried to code a solution. A good way to randomly learn I feel.
+
+### Day 371 2021 Nov 23, Tuesday
+
+**Today's Progress**
+
+**CS and JS**
+Did a few small exercises challenges and studied recursion again.
+
+**AR & WebXR**
+Almost completed watching AR course, next time thRough I will be building out the exercises.
+
+### Day 370 2021 Nov 22, Monday
+
+**Today's Progress**
+
+**JS**
+- A few challenges and learnt about Math.ceil
+
+**AR/ WebXR**
+
+### Day 369 2021 Nov 21, Sunday
+
+**Today's Progress**
+
+**Documentation & Testing**
+- Search module has a somewhat interesting bug where if you delete the first character of the input and then enter the the submit input drops
+as pointed out from yesterday.
+- Updated this markup document.
+
+**Computer Science**
+
+Continued to watch the computer science algorithm section on FM.
+
+**Thoughts**
+Unsure if I will ever use the algorithm stuff directly in the jobs I do but interesting all the same.
 
 
 ### Day 368 2021 Nov 20, Saturday
@@ -24,26 +98,29 @@ Did a bit of testing with Safari dev tools plugged into mobile.
 
 **Thoughts**
 -webkit-appearance: none!important;
-So that mobile form inputs don't get styled with system styling.
+So that mobile form inputs don't get styled with system styling. This does seem a strange things to need to do. Why does 
+Apple do this.
+Also on the search page I need to work out why entering first character in the input creates the button to "drop".
 
 ### Day 367 2021 Nov 19, Friday
 
 **Today's Progress**
 
-Modified a Drupal module to add a few classes for styles.
-Green circle Modified the CSS for the module.
+**Drupal Themeing**
+- Modified a Drupal module to add a few classes for styles.
+- Modified the CSS for the module.
 
+**Computer Science**
 I also watch a computer science video, always good to review and refresh sorts even though I never seem to need them.
-
 
 ### Day 366 2021 Nov 18, Thursday
 
 **Today's Progress**
 
 **JS, HTML, CSS, Git**
+- I tidied up and strip down a repository for an article. onScroll and ScrollTop
 
-Today I tidied up and strip down a repository for an article. Just a small job but important all the same.
-
+**Thoughts**
 It's really surprising how something as simple as scrollTop brings you full circle back to the basics
 
 
