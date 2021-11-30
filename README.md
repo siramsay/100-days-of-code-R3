@@ -4,12 +4,42 @@ didn't really need to get updates to the master which happens when you have fork
 I wanted to use this repo to track my progress and in time add links to other repositories as I make them public or push them
 from local.\
 
+
+### Day 376 2021 Nov 28, Tuesday
+
+**Today's Progress**
+
+**JS**
+Code Signal
+- Solved the Matrix Sum: needed to add the value of multi-dimensional array but only if a zero wasn't above it. 
+i.e anyting under a 0 is not counted so for the this matrix below the output should be 9 
+<pre>
+  [[1,1,1,0],
+   [0,5,0,1],
+   [2,1,3,10]] 
+</pre>
+
+**Solution**
+Coming Soon
+
+### Day 376 2021 Nov 28, Monday
+
+**Today's Progress**
+
+**Documention**
+Bit of downday so tried to document this log. 
+
+**JS**
+- Reviewed some Code Signal
+- Watch Web GL generative Art
+
 ### Day 376 2021 Nov 28, Sunday
 
 **Today's Progress**
 
 **JS**
 - Code Signal
+- AlmostIncreasingSequence
 
 **CS**
 - Merge Sort 
@@ -20,7 +50,8 @@ from local.\
 
 **JS**
 - Code Signal
-- Reviewed some ES6, Maps and Weak Map, weak maps garbage collect which could be useful 
+- Reviewed some ES6, Maps and Weak Map, weak maps garbage collect which could be useful
+- Watch Web GL generative Art
 
 ### Day 374 2021 Nov 26, Friday
 
