@@ -5,7 +5,7 @@ I wanted to use this repo to track my progress and in time add links to other re
 from local.\
 
 
-### Day 376 2021 Nov 28, Tuesday
+### Day 378 2021 Nov 28, Tuesday
 
 **Today's Progress**
 
@@ -22,7 +22,7 @@ i.e anyting under a 0 is not counted so for the this matrix below the output sho
 **Solution**
 Coming Soon
 
-### Day 376 2021 Nov 28, Monday
+### Day 377 2021 Nov 28, Monday
 
 **Today's Progress**
 
