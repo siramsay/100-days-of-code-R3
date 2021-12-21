@@ -4,7 +4,23 @@ didn't really need to get updates to the master which happens when you have fork
 I wanted to use this repo to track my progress and in time add links to other repositories as I make them public or push them
 from local.\
 
-### Day 378 2021 Nov 28, Sunday
+
+### Day 384 2021 Dec 8, Wednesday
+
+**Today's Progress**
+Set up Git Repo for image hide and reveal 
+
+**Link to work**
+
+### Day 384 2021 Dec 7, Tuesday
+
+**Today's Progress**
+
+### Day 384 2021 Dec 6, Monday
+
+**Today's Progress**
+
+### Day 383 2021 Dec 5, Sunday
 
 **Today's Progress**
 
@@ -18,7 +34,11 @@ Once again solving the problem with what I knew allowed me to see how others sol
 you can use Math.max to find the highest value in an array of values, but not only that you can use map to generate the length of 
 each array item i.e Math.max(...array.map(item => item.length))
 
-### Day 378 2021 Nov 28, Saturday
+```
+return inputArray.filter(x => x.length === Math.max(...inputArray.map(x => x.length)));}
+```
+
+### Day 382 2021 4 Dec, Saturday
 
 **Today's Progress**
 
@@ -30,19 +50,19 @@ each array item i.e Math.max(...array.map(item => item.length))
 The returned Map (array) was always another array of equal length with the values modified by the function or a boolean 
 value. I was hoping to get only values that matched the condition.
 
-### Day 378 2021 Nov 28, Friday
+### Day 381 2021 3 Dec, Friday
 
 **Today's Progress**
 
-### Day 378 2021 Nov 28, Thursday
+### Day 380 2021 2 Dec, Thursday
 
 **Today's Progress**
 
-### Day 378 2021 Nov 28, Wednesday
+### Day 379 2021 Dec 1, Wednesday
 
 **Today's Progress**
 
-### Day 378 2021 Nov 28, Tuesday
+### Day 378 2021 Nov 30, Tuesday
 
 **Today's Progress**
 
@@ -59,7 +79,7 @@ i.e anyting under a 0 is not counted so for the this matrix below the output sho
 **Solution**
 Coming Soon
 
-### Day 377 2021 Nov 28, Monday
+### Day 377 2021 Nov 29, Monday
 
 **Today's Progress**
 
