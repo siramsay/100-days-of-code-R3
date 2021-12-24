@@ -5,6 +5,21 @@ I wanted to use this repo to track my progress and in time add links to other re
 from local.\
 
 
+### Day 385 to 400 2021 Dec 8, Wednesday
+
+- JavaScript Challenges
+- JavaScript libraries and frameworks
+  - Vue.js
+  - D3.js
+  - Three.js and WebXR
+
+In 2020, I am going to concentrate my time on the above technology. 
+The last few weeks I have been just studying JavaScript built in array and string methods and tryng to 
+push my JavaScript and programming knowledge to the next level. I will update this in due time 
+but also need to start a new way of documenting and sharing my progress. This will most likely be done
+on my site at [designkojo.com](http://designkojo.com) where I have written over 100 article in the last year, currently around
+60 have been published. Stay tuned.
+
 ### Day 384 2021 Dec 8, Wednesday
 
 **Today's Progress**
