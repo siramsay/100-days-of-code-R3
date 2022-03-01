@@ -13,7 +13,7 @@ from local.\
   - D3.js
   - Three.js and WebXR
 
-In 2020, I am going to concentrate my time on the above technology. 
+In 2022, I am going to concentrate my time on the above technology. 
 The last few weeks I have been just studying JavaScript built in array and string methods and tryng to 
 push my JavaScript and programming knowledge to the next level. I will update this in due time 
 but also need to start a new way of documenting and sharing my progress. This will most likely be done
